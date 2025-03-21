@@ -750,7 +750,7 @@ const cityTownData = [
       "incorporated": false
     },
     {
-      "city": "Bushland",
+      "name": "Bushland",
       "population": 130,
       "gps_location": {
         "latitude": 35.1898588435917,
