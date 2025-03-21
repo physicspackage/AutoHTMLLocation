@@ -1009,13 +1009,173 @@ const cityTownData = [
       },
       "incorporated": false
     },
-      {
+    {
       "name": "Sturgis Corner",
       "population": null,
       "county": "Cimarron",
       "gps_location": {
         "latitude": 36.89343498416663,
         "longitude": -102.07104632568358
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Friona",
+      "population": 4144,
+      "county": "Parmer County",
+      "gps_location": {
+        "latitude": 34.63832505053746,
+        "longitude": -102.72913974609375
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Farwell",
+      "population": 1389,
+      "county": "Parmer County",
+      "gps_location": {
+        "latitude": 34.38679996804674,
+        "longitude": -103.03706088867187
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Bovina",
+      "population": 1703,
+      "county": "Parmer County",
+      "gps_location": {
+        "latitude": 34.51462384830187,
+        "longitude": -102.89160083007812
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Lazbuddie",
+      "population": 248,
+      "county": "Parmer County",
+      "gps_location": {
+        "latitude": 34.391633376407185,
+        "longitude": -102.61069428710938
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Black",
+      "population": 100,
+      "county": "Parmer County",
+      "gps_location": {
+        "latitude": 34.686545616427686,
+        "longitude": -102.60341174316403
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Clays Corner",
+      "population": 15,
+      "county": "Parmer County",
+      "gps_location": {
+        "latitude": 34.38492179210559,
+        "longitude": -102.71669665527344
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Hub",
+      "population": 25,
+      "county": "Parmer County",
+      "gps_location": {
+        "latitude": 34.525212072897816,
+        "longitude": -102.727322265625
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Lariat",
+      "population": 100,
+      "county": "Parmer County",
+      "gps_location": {
+        "latitude": 34.33135381002558,
+        "longitude": -102.91211573791506
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Oklahoma Lane",
+      "population": 25,
+      "county": "Parmer County",
+      "gps_location": {
+        "latitude": 34.38567976313052,
+        "longitude": -102.8862238616943
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Rhea",
+      "population": 98,
+      "county": "Parmer County",
+      "gps_location": {
+        "latitude": 34.671108526010165,
+        "longitude": -102.94968115997314
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Wilsey",
+      "population": null,
+      "county": "Parmer County",
+      "gps_location": {
+        "latitude": 34.450957044658054,
+        "longitude": -102.95591265869139
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Childress",
+      "population": 5737,
+      "county": "Childress County",
+      "gps_location": {
+        "latitude": 34.4265,
+        "longitude": -100.204
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Carey",
+      "population": null,
+      "county": "Childress County",
+      "gps_location": {
+        "latitude": 34.47152570965073,
+        "longitude": -100.32579470825196
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Kirkland",
+      "population": null,
+      "county": "Childress County",
+      "gps_location": {
+        "latitude": 34.38048325156076,
+        "longitude": -100.06166903686525
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Loco",
+      "population": null,
+      "county": "Childress County",
+      "gps_location": {
+        "latitude": 34.717624686171106,
+        "longitude": -100.15291430664064
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Tell",
+      "population": null,
+      "county": "Childress County",
+      "gps_location": {
+        "latitude": 34.37615995973405,
+        "longitude": -100.3948811645508
       },
       "incorporated": false
     }
