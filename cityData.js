@@ -1252,7 +1252,7 @@ const cityTownData = [
     {
       "name": "Northfield",
       "population": null,
-      "county": "Childress, Cottle, Hall, and Motley Counties",
+      "county": "Motley County",
       "gps_location": {
         "latitude": 34.287203836379405,
         "longitude": -100.5988571182251
@@ -1382,7 +1382,7 @@ const cityTownData = [
     {
       "name": "Abernathy",
       "population": 2865,
-      "county": "Hale and Lubbock Counties",
+      "county": "Hale County",
       "gps_location": {
         "latitude": 33.8323,
         "longitude": -101.8429
@@ -2141,7 +2141,7 @@ const cityTownData = [
     },
     {
       "name": "Woodward",
-      "population": null,
+      "population": 12900,
       "county": "Woodward County",
       "gps_location": {
         "latitude": 36.4315,
@@ -2188,7 +2188,408 @@ const cityTownData = [
         "longitude": -99.1681
       },
       "incorporated": true
-    }
+    },
+    {
+      "name": "Altus",
+      "population": 18635,
+      "county": "Jackson County",
+      "gps_location": {
+        "latitude": 34.63804135617299,
+        "longitude": -99.33356582031249
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Blair",
+      "population": 727,
+      "county": "Jackson County",
+      "gps_location": {
+        "latitude": 34.7803,
+        "longitude": -99.3333
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Duke",
+      "population": 394,
+      "county": "Jackson County",
+      "gps_location": {
+        "latitude": 34.6628,
+        "longitude": -99.5697
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Martha",
+      "population": 162,
+      "county": "Jackson County",
+      "gps_location": {
+        "latitude": 34.7261,
+        "longitude": -99.3867
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Elmer",
+      "population": 65,
+      "county": "Jackson County",
+      "gps_location": {
+        "latitude": 34.4808,
+        "longitude": -99.3522
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Eldorado",
+      "population": 317,
+      "county": "Jackson County",
+      "gps_location": {
+        "latitude": 34.4731,
+        "longitude": -99.6497
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Olustee",
+      "population": 463,
+      "county": "Jackson County",
+      "gps_location": {
+        "latitude": 34.5478,
+        "longitude": -99.4242
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Frederick",
+      "population": 3468,
+      "county": "Tillman County",
+      "gps_location": {
+        "latitude": 34.392,
+        "longitude": -99.0184
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Grandfield",
+      "population": 919,
+      "county": "Tillman County",
+      "gps_location": {
+        "latitude": 34.2307,
+        "longitude": -98.6874
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Tipton",
+      "population": 864,
+      "county": "Tillman County",
+      "gps_location": {
+        "latitude": 34.5008,
+        "longitude": -99.1364
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Manitou",
+      "population": 171,
+      "county": "Tillman County",
+      "gps_location": {
+        "latitude": 34.5072,
+        "longitude": -98.9811
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Davidson",
+      "population": 241,
+      "county": "Tillman County",
+      "gps_location": {
+        "latitude": 34.2422,
+        "longitude": -99.0781
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Hobart",
+      "population": 3413,
+      "county": "Kiowa County",
+      "gps_location": {
+        "latitude": 35.0244,
+        "longitude": -99.0875
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Gotebo",
+      "population": 174,
+      "county": "Kiowa County",
+      "gps_location": {
+        "latitude": 35.0711,
+        "longitude": -98.8742
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Mountain View",
+      "population": 740,
+      "county": "Kiowa County",
+      "gps_location": {
+        "latitude": 35.0994,
+        "longitude": -98.7497
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Mountain Park",
+      "population": 320,
+      "county": "Kiowa County",
+      "gps_location": {
+        "latitude": 34.6989,
+        "longitude": -98.9522
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Roosevelt",
+      "population": 254,
+      "county": "Kiowa County",
+      "gps_location": {
+        "latitude": 34.8483,
+        "longitude": -99.0222
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Snyder",
+      "population": 1301,
+      "county": "Kiowa County",
+      "gps_location": {
+        "latitude": 34.6553,
+        "longitude": -98.9533
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Cooperton",
+      "population": 3,
+      "county": "Kiowa County",
+      "gps_location": {
+        "latitude": 34.8664,
+        "longitude": -98.8708
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Clinton",
+      "population": 8521,
+      "county": "Custer County",
+      "gps_location": {
+        "latitude": 35.5067,
+        "longitude": -98.9706
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Weatherford",
+      "population": 12076,
+      "county": "Custer County",
+      "gps_location": {
+        "latitude": 35.5383,
+        "longitude": -98.6872
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Arapaho",
+      "population": 668,
+      "county": "Custer County",
+      "gps_location": {
+        "latitude": 35.5778,
+        "longitude": -98.9594
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Butler",
+      "population": 208,
+      "county": "Custer County",
+      "gps_location": {
+        "latitude": 35.6364,
+        "longitude": -99.1864
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Hammon",
+      "population": 479,
+      "county": "Custer County",
+      "gps_location": {
+        "latitude": 35.6322,
+        "longitude": -99.3814
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Thomas",
+      "population": 1143,
+      "county": "Custer County",
+      "gps_location": {
+        "latitude": 35.7453,
+        "longitude": -98.745
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Cordell",
+      "population": 2775,
+      "county": "Washita County",
+      "gps_location": {
+        "latitude": 35.291656062276,
+        "longitude": -98.98767655029297
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Sentinel",
+      "population": 763,
+      "county": "Washita County",
+      "gps_location": {
+        "latitude": 35.1569,
+        "longitude": -99.1736
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Rocky",
+      "population": 128,
+      "county": "Washita County",
+      "gps_location": {
+        "latitude": 35.1564,
+        "longitude": -99.0597
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Burns Flat",
+      "population": 1948,
+      "county": "Washita County",
+      "gps_location": {
+        "latitude": 35.34819046564552,
+        "longitude": -99.16994793701171
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Dill City",
+      "population": 420,
+      "county": "Washita County",
+      "gps_location": {
+        "latitude": 35.27648414127236,
+        "longitude": -99.13488746032715
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Corn",
+      "population": 592,
+      "county": "Washita County",
+      "gps_location": {
+        "latitude": 35.3792,
+        "longitude": -98.7817
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Foss",
+      "population": 101,
+      "county": "Washita County",
+      "gps_location": {
+        "latitude": 35.45,
+        "longitude": -99.1708
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Taloga",
+      "population": 288,
+      "county": "Dewey County",
+      "gps_location": {
+        "latitude": 36.0403,
+        "longitude": -98.9642
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Leedey",
+      "population": 415,
+      "county": "Dewey County",
+      "gps_location": {
+        "latitude": 35.8686,
+        "longitude": -99.345
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Vici",
+      "population": 611,
+      "county": "Dewey County",
+      "gps_location": {
+        "latitude": 36.1489,
+        "longitude": -99.2994
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Putnam",
+      "population": 30,
+      "county": "Dewey County",
+      "gps_location": {
+        "latitude": 35.8558,
+        "longitude": -98.9683
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Camargo",
+      "population": 193,
+      "county": "Dewey County",
+      "gps_location": {
+        "latitude": 36.0178,
+        "longitude": -99.2883
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Oakwood",
+      "population": 74,
+      "county": "Dewey County",
+      "gps_location": {
+        "latitude": 35.9317,
+        "longitude": -98.7031
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Fay",
+      "population": 32,
+      "county": "Dewey County",
+      "gps_location": {
+        "latitude": 35.8161,
+        "longitude": -98.6586
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Darrouzett",
+      "population": 309,
+      "county": "Lipscomb County",
+      "state": "Texas",
+      "gps_location": {
+        "latitude": 36.4449,
+        "longitude": -100.3258
+      },
+      "incorporated": true
+    }  
   ];
   
   export { cityTownData };
