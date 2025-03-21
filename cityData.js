@@ -751,263 +751,273 @@ const cityTownData = [
     },
     {
       "city": "Bushland",
-      "incorporation": "unincorporated",
       "population": 130,
       "gps_location": {
         "latitude": 35.1898588435917,
         "longitude": -102.06342639160157
-      }
+      },
+      "incorporated": false,
+      "county": "Potter"
     },
     {
       "name": "Beaver",
-      "incorporation": "incorporated",
       "population": 1491,
       "gps_location": {
         "latitude": 36.8127062421577,
         "longitude": -100.5199931640625
-      }
+      },
+      "incorporated": true,
+      "county": "Beaver"
     },
     {
       "name": "Forgan",
-      "incorporation": "incorporated",
       "population": 503,
       "gps_location": {
         "latitude": 36.9060055470956,
         "longitude": -100.53751572265627
-      }
+      },
+      "incorporated": true,
+      "county": "Beaver"
     },
     {
       "name": "Gate",
-      "incorporation": "incorporated",
       "population": 148,
       "gps_location": {
         "latitude": 36.85053792831321,
         "longitude": -100.05631669921874
-      }
+      },
+      "incorporated": true,
+      "county": "Beaver"
     },
     {
       "name": "Knowles",
-      "incorporation": "unincorporated",
       "population": null,
       "gps_location": {
         "latitude": 36.868836247755894,
         "longitude": -100.18537551269532
-      }
+      },
+      "incorporated": false,
+      "county": "Beaver"
     },
     {
       "name": "Turpin",
-      "incorporation": "unincorporated",
       "population": null,
       "gps_location": {
         "latitude": 36.864454628938326,
         "longitude": -100.87506120605468
-      }
+      },
+      "incorporated": false,
+      "county": "Beaver"
     },
     {
       "name": "Bryans Corner",
-      "incorporation": "unincorporated",
       "population": null,
       "gps_location": {
         "latitude": 36.616051931190604,
         "longitude": -100.82809039306638
-      }
+      },
+      "incorporated": false,
+      "county": "Beaver"
     },
     {
       "name": "Floris",
-      "incorporation": "unincorporated",
       "population": null,
       "gps_location": {
         "latitude": 36.86886368894863,
         "longitude": -100.71034228515626
-      }
+      },
+      "incorporated": false,
+      "county": "Beaver"
     },
     {
       "name": "Elmwood",
-      "incorporation": "unincorporated",
       "population": null,
       "gps_location": {
         "latitude": 36.61461313234892,
         "longitude": -100.52301623535155
-      }
+      },
+      "incorporated": false,
+      "county": "Beaver"
     },
     {
       "name": "Slapout",
-      "incorporation": "unincorporated",
       "population": null,
       "gps_location": {
         "latitude": 36.61588795849794,
         "longitude": -100.10976611328125
-      }
+      },
+      "incorporated": false,
+      "county": "Beaver"
     },
     {
       "name": "Guymon",
-      "incorporation": "incorporated",
       "population": 12965,
-      "county": "Texas County",
+      "county": "Texas",
       "gps_location": {
         "latitude": 36.6823,
         "longitude": -101.4832
-      }
+      },
+      "incorporated": true
     },
     {
       "name": "Goodwell",
-      "incorporation": "incorporated",
       "population": 1291,
-      "county": "Texas County",
+      "county": "Texas",
       "gps_location": {
         "latitude": 36.5932551187421,
         "longitude": -101.62512639160155
-      }
+      },
+      "incorporated": true
     },
     {
       "name": "Optima",
-      "incorporation": "incorporated",
       "population": 327,
-      "county": "Texas County",
+      "county": "Texas",
       "gps_location": {
         "latitude": 36.75871396044999,
         "longitude": -101.35650657166053
-      }
+      },
+      "incorporated": true
     },
     {
       "name": "Tyrone",
-      "incorporation": "incorporated",
       "population": 762,
-      "county": "Texas County",
+      "county": "Texas",
       "gps_location": {
         "latitude": 36.95303654591476,
         "longitude": -101.06570588378908
-      }
+      },
+      "incorporated": true
     },
     {
       "name": "Hardesty",
-      "incorporation": "incorporated",
       "population": 199,
-      "county": "Texas County",
+      "county": "Texas",
       "gps_location": {
         "latitude": 36.61436875550899,
         "longitude": -101.19543521728515
-      }
+      },
+      "incorporated": true
     },
     {
       "name": "Hooker",
-      "incorporation": "incorporated",
       "population": 1735,
-      "county": "Texas County",
+      "county": "Texas",
       "gps_location": {
         "latitude": 36.8542,
         "longitude": -101.2253
-      }
+      },
+      "incorporated": true
     },
     {
       "name": "Adams Corner",
-      "incorporation": "unincorporated",
       "population": null,
-      "county": "Texas County",
+      "county": "Texas",
       "gps_location": {
         "latitude": 36.75636397445801,
         "longitude": -101.07674663644502
-      }
+      },
+      "incorporated": false
     },
     {
       "name": "Baker Corner",
-      "incorporation": "unincorporated",
       "population": null,
-      "county": "Texas County",
+      "county": "Texas",
       "gps_location": {
         "latitude": 36.8678527305814,
         "longitude": -101.0186438333723
-      }
+      },
+      "incorporated": false
     },
     {
       "name": "Balko",
-      "incorporation": "unincorporated",
       "population": null,
-      "county": "Texas County",
+      "county": "Texas",
       "gps_location": {
         "latitude": 36.628012365692605,
         "longitude": -100.68471514892576
-      }
+      },
+      "incorporated": false
     },
     {
       "name": "Eva",
-      "incorporation": "unincorporated",
       "population": null,
-      "county": "Texas County",
+      "county": "Texas",
       "gps_location": {
         "latitude": 36.78964987792117,
         "longitude": -101.91269480895997
-      }
+      },
+      "incorporated": false
     },
     {
       "name": "Hough",
-      "incorporation": "unincorporated",
       "population": null,
-      "county": "Texas County",
+      "county": "Texas",
       "gps_location": {
         "latitude": 36.870502140535066,
         "longitude": -101.57698839907931
-      }
+      },
+      "incorporated": false
     },
     {
       "name": "Straight",
-      "incorporation": "unincorporated",
       "population": null,
-      "county": "Texas County",
+      "county": "Texas",
       "gps_location": {
         "latitude": 36.87581852066499,
         "longitude": -101.45049248950245
-      }
+      },
+      "incorporated": false
     },
     {
       "name": "Boise City",
-      "incorporation": "incorporated",
       "population": 1027,
-      "county": "Cimarron County",
+      "county": "Cimarron",
       "gps_location": {
         "latitude": 36.728877220218315,
         "longitude": -102.51312670898439
-      }
+      },
+      "incorporated": true
     },
     {
       "name": "Keyes",
-      "incorporation": "incorporated",
       "population": 245,
-      "county": "Cimarron County",
+      "county": "Cimarron",
       "gps_location": {
         "latitude": 36.80816650087737,
         "longitude": -102.25171955566407
-      }
+      },
+      "incorporated": true
     },
     {
       "name": "Kenton",
-      "incorporation": "unincorporated",
       "population": 17,
-      "county": "Cimarron County",
+      "county": "Cimarron",
       "gps_location": {
         "latitude": 36.90291122096339,
         "longitude": -102.96304377746581
-      }
+      },
+      "incorporated": false
     },
     {
       "name": "Felt",
-      "incorporation": "unincorporated",
       "population": null,
-      "county": "Cimarron County",
+      "county": "Cimarron",
       "gps_location": {
         "latitude": 36.56700230255507,
         "longitude": -102.79317614746095
-      }
+      },
+      "incorporated": false
     },
       {
       "name": "Sturgis Corner",
-      "incorporation": "unincorporated",
       "population": null,
-      "county": "Cimarron County",
+      "county": "Cimarron",
       "gps_location": {
         "latitude": 36.89343498416663,
         "longitude": -102.07104632568358
-      }
+      },
+      "incorporated": false
     }
   ];
   
