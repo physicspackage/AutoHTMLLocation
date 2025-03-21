@@ -1351,7 +1351,7 @@ const cityTownData = [
     },
     {
       "name": "Plainview",
-      "population": null,
+      "population": 20165,
       "county": "Hale County",
       "gps_location": {
         "latitude": 34.1836,
@@ -1361,7 +1361,7 @@ const cityTownData = [
     },
     {
       "name": "Hale Center",
-      "population": null,
+      "population": 2062,
       "county": "Hale County",
       "gps_location": {
         "latitude": 34.06455978389325,
@@ -1421,7 +1421,7 @@ const cityTownData = [
     },
     {
       "name": "Lubbock",
-      "population": null,
+      "population": 263930,
       "county": "Lubbock County",
       "gps_location": {
         "latitude": 33.5767,
@@ -1431,7 +1431,7 @@ const cityTownData = [
     },
     {
       "name": "Idalou",
-      "population": null,
+      "population": 2250,
       "county": "Lubbock County",
       "gps_location": {
         "latitude": 33.6625,
@@ -1451,7 +1451,7 @@ const cityTownData = [
     },
     {
       "name": "Olton",
-      "population": null,
+      "population": 2072,
       "county": "Lamb County",
       "gps_location": {
         "latitude": 34.1833,
@@ -1481,7 +1481,7 @@ const cityTownData = [
     },
     {
       "name": "Sudan",
-      "population": null,
+      "population": 958,
       "county": "Lamb County",
       "gps_location": {
         "latitude": 34.0678,
@@ -1951,7 +1951,7 @@ const cityTownData = [
     },
     {
       "name": "Texola",
-      "population": null,
+      "population": 36,
       "county": "Beckham County",
       "gps_location": {
         "latitude": 35.21922607669095,
