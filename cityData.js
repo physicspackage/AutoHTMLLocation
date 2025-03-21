@@ -1178,6 +1178,1016 @@ const cityTownData = [
         "longitude": -100.3948811645508
       },
       "incorporated": false
+    },
+    {
+      "name": "Quanah",
+      "population": 2279,
+      "county": "Hardeman County",
+      "gps_location": {
+        "latitude": 34.2897271310091,
+        "longitude": -99.74169837036135
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Chillicothe",
+      "population": 555,
+      "county": "Hardeman County",
+      "gps_location": {
+        "latitude": 34.256610255941,
+        "longitude": -99.51648583068848
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Goodlett",
+      "population": 80,
+      "county": "Hardeman County",
+      "gps_location": {
+        "latitude": 34.33415052331501,
+        "longitude": -99.88628359985351
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Medicine Mound",
+      "population": 25,
+      "county": "Hardeman County",
+      "gps_location": {
+        "latitude": 34.19417909505919,
+        "longitude": -99.59525057983399
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Paducah",
+      "population": 1063,
+      "county": "Cottle County",
+      "gps_location": {
+        "latitude": 34.01283479995709,
+        "longitude": -100.30174006347656
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Cee Vee",
+      "population": null,
+      "county": "Cottle County",
+      "gps_location": {
+        "latitude": 34.22300211763775,
+        "longitude": -100.44577151489258
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Swearingen",
+      "population": null,
+      "county": "Cottle County",
+      "gps_location": {
+        "latitude": 34.14845455701077,
+        "longitude": -100.1476145477295
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Northfield",
+      "population": null,
+      "county": "Childress, Cottle, Hall, and Motley Counties",
+      "gps_location": {
+        "latitude": 34.287203836379405,
+        "longitude": -100.5988571182251
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Matador",
+      "population": 567,
+      "county": "Motley County",
+      "gps_location": {
+        "latitude": 34.0122439563943,
+        "longitude": -100.8221452697754
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Roaring Springs",
+      "population": 214,
+      "county": "Motley County",
+      "gps_location": {
+        "latitude": 33.899384964635146,
+        "longitude": -100.85705830688477
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Flomot",
+      "population": null,
+      "county": "Motley County",
+      "gps_location": {
+        "latitude": 34.22725218456885,
+        "longitude": -100.98892182006836
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Floydada",
+      "population": 3038,
+      "county": "Floyd County",
+      "gps_location": {
+        "latitude": 33.9844,
+        "longitude": -101.3372
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Lockney",
+      "population": 1481,
+      "county": "Floyd County",
+      "gps_location": {
+        "latitude": 34.123,
+        "longitude": -101.4425
+      },
+      "incorporated": true
+    },
+    {
+      "name": "South Plains",
+      "population": null,
+      "county": "Floyd County",
+      "gps_location": {
+        "latitude": 34.2249429303119,
+        "longitude": -101.31022996826172
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Muncy",
+      "population": null,
+      "county": "Floyd County",
+      "gps_location": {
+        "latitude": 34.0664,
+        "longitude": -101.3911
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Dougherty",
+      "population": null,
+      "county": "Floyd County",
+      "gps_location": {
+        "latitude": 33.9417,
+        "longitude": -101.0861
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Aiken",
+      "population": null,
+      "county": "Floyd County",
+      "gps_location": {
+        "latitude": 34.1422,
+        "longitude": -101.5253
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Plainview",
+      "population": null,
+      "county": "Hale County",
+      "gps_location": {
+        "latitude": 34.1836,
+        "longitude": -101.7183
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Hale Center",
+      "population": null,
+      "county": "Hale County",
+      "gps_location": {
+        "latitude": 34.06455978389325,
+        "longitude": -101.84364658203125
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Petersburg",
+      "population": 1014,
+      "county": "Hale County",
+      "gps_location": {
+        "latitude": 33.8694,
+        "longitude": -101.5975
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Abernathy",
+      "population": 2865,
+      "county": "Hale and Lubbock Counties",
+      "gps_location": {
+        "latitude": 33.8323,
+        "longitude": -101.8429
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Edmonson",
+      "population": 101,
+      "county": "Hale County",
+      "gps_location": {
+        "latitude": 34.28239621501223,
+        "longitude": -101.90034020080566
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Seth Ward",
+      "population": 1603,
+      "county": "Hale County",
+      "gps_location": {
+        "latitude": 34.2124,
+        "longitude": -101.6961
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Cotton Center",
+      "population": null,
+      "county": "Hale County",
+      "gps_location": {
+        "latitude": 33.99160777750389,
+        "longitude": -101.99287079467774
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Lubbock",
+      "population": null,
+      "county": "Lubbock County",
+      "gps_location": {
+        "latitude": 33.5767,
+        "longitude": -101.8551
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Idalou",
+      "population": null,
+      "county": "Lubbock County",
+      "gps_location": {
+        "latitude": 33.6625,
+        "longitude": -101.6834
+      },
+      "incorporated": true
+    },
+    {
+      "name": "New Deal",
+      "population": 794,
+      "county": "Lubbock County",
+      "gps_location": {
+        "latitude": 33.737354743777,
+        "longitude": -101.83675830688476
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Olton",
+      "population": null,
+      "county": "Lamb County",
+      "gps_location": {
+        "latitude": 34.1833,
+        "longitude": -102.1342
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Littlefield",
+      "population": 5871,
+      "county": "Lamb County",
+      "gps_location": {
+        "latitude": 33.9172,
+        "longitude": -102.3244
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Amherst",
+      "population": 678,
+      "county": "Lamb County",
+      "gps_location": {
+        "latitude": 34.01272067448261,
+        "longitude": -102.41362589416504
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Sudan",
+      "population": null,
+      "county": "Lamb County",
+      "gps_location": {
+        "latitude": 34.0678,
+        "longitude": -102.5239
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Earth",
+      "population": 1065,
+      "county": "Lamb County",
+      "gps_location": {
+        "latitude": 34.2331,
+        "longitude": -102.4103
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Springlake",
+      "population": 110,
+      "county": "Lamb County",
+      "gps_location": {
+        "latitude": 34.2317,
+        "longitude": -102.3056
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Fieldton",
+      "population": null,
+      "county": "Lamb County",
+      "gps_location": {
+        "latitude": 34.0392,
+        "longitude": -102.2228
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Spade",
+      "population": 71,
+      "county": "Lamb County",
+      "gps_location": {
+        "latitude": 33.9262,
+        "longitude": -102.1535
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Muleshoe",
+      "population": 5160,
+      "county": "Bailey County",
+      "gps_location": {
+        "latitude": 34.2264,
+        "longitude": -102.7236
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Bula",
+      "population": 35,
+      "county": "Bailey County",
+      "gps_location": {
+        "latitude": 33.9115,
+        "longitude": -102.638
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Enochs",
+      "population": 50,
+      "county": "Bailey County",
+      "gps_location": {
+        "latitude": 33.8731,
+        "longitude": -102.7599
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Maple",
+      "population": 75,
+      "county": "Bailey County",
+      "gps_location": {
+        "latitude": 33.8487,
+        "longitude": -102.8985
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Needmore",
+      "population": 45,
+      "county": "Bailey County",
+      "gps_location": {
+        "latitude": 34.0331,
+        "longitude": -102.7374
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Progress",
+      "population": 49,
+      "county": "Bailey County",
+      "gps_location": {
+        "latitude": 34.2829,
+        "longitude": -102.8099
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Stegall",
+      "population": null,
+      "county": "Bailey County",
+      "gps_location": {
+        "latitude": 34.0034,
+        "longitude": -102.9563
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Goodland",
+      "population": null,
+      "county": "Bailey County",
+      "gps_location": {
+        "latitude": 33.8729,
+        "longitude": -102.9761
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Dora",
+      "population": 117,
+      "county": "Roosevelt County",
+      "gps_location": {
+        "latitude": 33.9333,
+        "longitude": -103.3369
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Portales",
+      "population": 12137,
+      "county": "Roosevelt County",
+      "gps_location": {
+        "latitude": 34.18382073211824,
+        "longitude": -103.33923386230468
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Elida",
+      "population": 166,
+      "county": "Roosevelt County",
+      "gps_location": {
+        "latitude": 33.9469,
+        "longitude": -103.6531
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Floyd",
+      "population": 86,
+      "county": "Roosevelt County",
+      "gps_location": {
+        "latitude": 34.21425804634478,
+        "longitude": -103.580175100708
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Causey",
+      "population": 68,
+      "county": "Roosevelt County",
+      "gps_location": {
+        "latitude": 33.879093083067524,
+        "longitude": -103.12649674072266
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Arch",
+      "population": null,
+      "county": "Roosevelt County",
+      "gps_location": {
+        "latitude": 34.1129781435234,
+        "longitude": -103.1414189208984
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Rogers",
+      "population": 229,
+      "county": "Roosevelt County",
+      "gps_location": {
+        "latitude": 33.9817,
+        "longitude": -103.2306
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Clovis",
+      "population": 38567,
+      "county": "Curry County",
+      "gps_location": {
+        "latitude": 34.4047,
+        "longitude": -103.2053
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Texico",
+      "population": 956,
+      "county": "Curry County",
+      "gps_location": {
+        "latitude": 34.39,
+        "longitude": -103.0514
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Melrose",
+      "population": 622,
+      "county": "Curry County",
+      "gps_location": {
+        "latitude": 34.4281,
+        "longitude": -103.6281
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Grady",
+      "population": 86,
+      "county": "Curry County",
+      "gps_location": {
+        "latitude": 34.8217,
+        "longitude": -103.3158
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Tucumcari",
+      "population": 5278,
+      "county": "Quay County",
+      "gps_location": {
+        "latitude": 35.1699,
+        "longitude": -103.7256
+      },
+      "incorporated": true
+    },
+    {
+      "name": "San Jon",
+      "population": 136,
+      "county": "Quay County",
+      "gps_location": {
+        "latitude": 35.112036637248906,
+        "longitude": -103.33092833862305
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Logan",
+      "population": 968,
+      "county": "Quay County",
+      "gps_location": {
+        "latitude": 35.36577965472577,
+        "longitude": -103.41054948120117
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Nara Visa",
+      "population": 51,
+      "county": "Quay County",
+      "gps_location": {
+        "latitude": 35.6076243098679,
+        "longitude": -103.10008696289063
+      },
+      "incorporated": false
+    },
+    {
+      "name": "House",
+      "population": 56,
+      "county": "Quay County",
+      "gps_location": {
+        "latitude": 34.6494,
+        "longitude": -103.9039
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Clayton",
+      "population": 2643,
+      "county": "Union County",
+      "gps_location": {
+        "latitude": 36.452013598253885,
+        "longitude": -103.18447528076172
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Des Moines",
+      "population": 117,
+      "county": "Union County",
+      "gps_location": {
+        "latitude": 36.7613,
+        "longitude": -103.8342
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Folsom",
+      "population": 51,
+      "county": "Union County",
+      "gps_location": {
+        "latitude": 36.844781032110596,
+        "longitude": -103.91781213684082
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Grenville",
+      "population": 29,
+      "county": "Union County",
+      "gps_location": {
+        "latitude": 36.593061864764096,
+        "longitude": -103.61351335449218
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Capulin",
+      "population": 61,
+      "county": "Union County",
+      "gps_location": {
+        "latitude": 36.74202237657463,
+        "longitude": -103.99511335449219
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Amistad",
+      "population": 137,
+      "county": "Union County",
+      "gps_location": {
+        "latitude": 35.9189,
+        "longitude": -103.1538
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Sedan",
+      "population": 134,
+      "county": "Union County",
+      "gps_location": {
+        "latitude": 36.1444,
+        "longitude": -103.1294
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Hollis",
+      "population": 1795,
+      "county": "Harmon County",
+      "gps_location": {
+        "latitude": 34.68251937658385,
+        "longitude": -99.9123817565918
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Gould",
+      "population": 103,
+      "county": "Harmon County",
+      "gps_location": {
+        "latitude": 34.6692,
+        "longitude": -99.7737
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Arnett",
+      "population": null,
+      "county": "Harmon County",
+      "gps_location": {
+        "latitude": 34.7472,
+        "longitude": -99.965
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Mangum",
+      "population": 2762,
+      "county": "Greer County",
+      "gps_location": {
+        "latitude": 34.8785,
+        "longitude": -99.5039
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Granite",
+      "population": 1628,
+      "county": "Greer County",
+      "gps_location": {
+        "latitude": 34.9623,
+        "longitude": -99.3842
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Willow",
+      "population": null,
+      "county": "Greer County",
+      "gps_location": {
+        "latitude": 35.051416120854476,
+        "longitude": -99.50944903564452
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Reed",
+      "population": null,
+      "county": "Greer County",
+      "gps_location": {
+        "latitude": 34.9006,
+        "longitude": -99.6956
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Vinson",
+      "population": 60,
+      "county": "Greer County",
+      "gps_location": {
+        "latitude": 34.90055527373846,
+        "longitude": -99.85988035202028
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Elk City",
+      "population": 11561,
+      "county": "Beckham County",
+      "gps_location": {
+        "latitude": 35.41146692432088,
+        "longitude": -99.40483743896485
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Sayre",
+      "population": 4809,
+      "county": "Beckham County",
+      "gps_location": {
+        "latitude": 35.29179617590157,
+        "longitude": -99.64002965087889
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Erick",
+      "population": 1000,
+      "county": "Beckham County",
+      "gps_location": {
+        "latitude": 35.214949384767934,
+        "longitude": -99.8666829788208
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Texola",
+      "population": null,
+      "county": "Beckham County",
+      "gps_location": {
+        "latitude": 35.21922607669095,
+        "longitude": -99.99148044433593
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Carter",
+      "population": 183,
+      "county": "Beckham County",
+      "gps_location": {
+        "latitude": 35.2181,
+        "longitude": -99.5036
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Sweetwater",
+      "population": null,
+      "county": "Beckham County",
+      "gps_location": {
+        "latitude": 35.422254317556366,
+        "longitude": -99.91104101562499
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Cheyenne",
+      "population": 771,
+      "county": "Roger Mills County",
+      "gps_location": {
+        "latitude": 35.61397023871363,
+        "longitude": -99.67159348144531
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Reydon",
+      "population": 137,
+      "county": "Roger Mills County",
+      "gps_location": {
+        "latitude": 35.65353591763677,
+        "longitude": -99.91930846557617
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Strong City",
+      "population": 33,
+      "county": "Roger Mills County",
+      "gps_location": {
+        "latitude": 35.6697,
+        "longitude": -99.6003
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Roll",
+      "population": null,
+      "county": "Roger Mills County",
+      "gps_location": {
+        "latitude": 35.78727694668449,
+        "longitude": -99.71311661376951
+      },
+      "incorporated": false
+    },
+    {
+      "name": "McQueen",
+      "population": null,
+      "county": "Harmon County",
+      "gps_location": {
+        "latitude": 34.5348,
+        "longitude": -99.9798
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Madge",
+      "population": null,
+      "county": "Harmon County",
+      "gps_location": {
+        "latitude": 34.9003,
+        "longitude": -99.9584
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Shattuck",
+      "population": 1249,
+      "county": "Ellis County",
+      "gps_location": {
+        "latitude": 36.2724,
+        "longitude": -99.8762
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Gage",
+      "population": 433,
+      "county": "Ellis County",
+      "gps_location": {
+        "latitude": 36.31884025766208,
+        "longitude": -99.75678501586916
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Fargo",
+      "population": 312,
+      "county": "Ellis County",
+      "gps_location": {
+        "latitude": 36.3742,
+        "longitude": -99.6223
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Catesby",
+      "population": null,
+      "county": "Ellis County",
+      "gps_location": {
+        "latitude": 36.493,
+        "longitude": -99.9628
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Arnett (Ellis County)",
+      "population": 495,
+      "county": "Ellis County",
+      "gps_location": {
+        "latitude": 36.1345,
+        "longitude": -99.7729
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Laverne",
+      "population": 1223,
+      "county": "Harper County",
+      "gps_location": {
+        "latitude": 36.7098,
+        "longitude": -99.8935
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Buffalo",
+      "population": 1039,
+      "county": "Harper County",
+      "gps_location": {
+        "latitude": 36.8353,
+        "longitude": -99.6278
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Rosston",
+      "population": 52,
+      "county": "Harper County",
+      "gps_location": {
+        "latitude": 36.8128,
+        "longitude": -99.9328
+      },
+      "incorporated": true
+    },
+    {
+      "name": "May",
+      "population": null,
+      "county": "Harper County",
+      "gps_location": {
+        "latitude": 36.617,
+        "longitude": -99.747
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Selman",
+      "population": 12,
+      "county": "Harper County",
+      "gps_location": {
+        "latitude": 36.8014,
+        "longitude": -99.4908
+      },
+      "incorporated": false
+    },
+    {
+      "name": "Woodward",
+      "population": null,
+      "county": "Woodward County",
+      "gps_location": {
+        "latitude": 36.4315,
+        "longitude": -99.3912
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Mooreland",
+      "population": 1178,
+      "county": "Woodward County",
+      "gps_location": {
+        "latitude": 36.4378,
+        "longitude": -99.2048
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Fort Supply",
+      "population": 317,
+      "county": "Woodward County",
+      "gps_location": {
+        "latitude": 36.5722,
+        "longitude": -99.5737
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Sharon",
+      "population": 133,
+      "county": "Woodward County",
+      "gps_location": {
+        "latitude": 36.2756,
+        "longitude": -99.3381
+      },
+      "incorporated": true
+    },
+    {
+      "name": "Mutual",
+      "population": 63,
+      "county": "Woodward County",
+      "gps_location": {
+        "latitude": 36.2299,
+        "longitude": -99.1681
+      },
+      "incorporated": true
     }
   ];
   
