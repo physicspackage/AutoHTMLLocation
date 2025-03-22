@@ -3835,8 +3835,8 @@ const cityTownData = [
     "population": 90,
     "county": "Grant County",
     "gps_location": {
-      "latitude": 36.9944,
-      "longitude": -98.035
+      "latitude": 36.99440000000001,
+      "longitude": -98.03740325927734
     },
     "incorporated": true
   },
@@ -4529,6 +4529,1094 @@ const cityTownData = [
       "longitude": -98.34955993652345
     },
     "incorporated": true
+  },
+  {
+    "name": "Springfield",
+    "population": 1325,
+    "county": "Baca County",
+    "gps_location": {
+      "latitude": 37.40831813548367,
+      "longitude": -102.61641611633303
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Two Buttes",
+    "population": 34,
+    "county": "Baca County",
+    "gps_location": {
+      "latitude": 37.5607,
+      "longitude": -102.3965
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Walsh",
+    "population": 546,
+    "county": "Baca County",
+    "gps_location": {
+      "latitude": 37.386096162036765,
+      "longitude": -102.27789266662597
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Campo",
+    "population": 103,
+    "county": "Baca County",
+    "gps_location": {
+      "latitude": 37.105,
+      "longitude": -102.5797
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Pritchett",
+    "population": 112,
+    "county": "Baca County",
+    "gps_location": {
+      "latitude": 37.37,
+      "longitude": -102.8587
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Vilas",
+    "population": 104,
+    "county": "Baca County",
+    "gps_location": {
+      "latitude": 37.37551081312725,
+      "longitude": -102.44734562988282
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Elkhart",
+    "population": 1888,
+    "county": "Morton County",
+    "gps_location": {
+      "latitude": 37.0031,
+      "longitude": -101.8944
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Rolla",
+    "population": 384,
+    "county": "Morton County",
+    "gps_location": {
+      "latitude": 37.1183,
+      "longitude": -101.6325
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Richfield",
+    "population": 30,
+    "county": "Morton County",
+    "gps_location": {
+      "latitude": 37.2653,
+      "longitude": -101.7828
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Johnson City",
+    "population": 1464,
+    "county": "Stanton County",
+    "gps_location": {
+      "latitude": 37.5706,
+      "longitude": -101.7528
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Manter",
+    "population": 132,
+    "county": "Stanton County",
+    "gps_location": {
+      "latitude": 37.525,
+      "longitude": -101.8831
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Big Bow",
+    "population": 32,
+    "county": "Stanton County",
+    "gps_location": {
+      "latitude": 37.565,
+      "longitude": -101.5617
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Hugoton",
+    "population": 3747,
+    "county": "Stevens County",
+    "gps_location": {
+      "latitude": 37.1746,
+      "longitude": -101.3449
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Moscow",
+    "population": 272,
+    "county": "Stevens County",
+    "gps_location": {
+      "latitude": 37.325,
+      "longitude": -101.2067
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Liberal",
+    "population": 19825,
+    "county": "Seward County",
+    "gps_location": {
+      "latitude": 37.0467,
+      "longitude": -100.9278
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Kismet",
+    "population": 340,
+    "county": "Seward County",
+    "gps_location": {
+      "latitude": 37.2045,
+      "longitude": -100.7017
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Meade",
+    "population": 1505,
+    "county": "Meade County",
+    "gps_location": {
+      "latitude": 37.2836,
+      "longitude": -100.3431
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Fowler",
+    "population": 534,
+    "county": "Meade County",
+    "gps_location": {
+      "latitude": 37.3828,
+      "longitude": -100.1956
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Plains",
+    "population": 1037,
+    "county": "Meade County",
+    "gps_location": {
+      "latitude": 37.2642,
+      "longitude": -100.5897
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Englewood",
+    "population": 58,
+    "county": "Clark County",
+    "gps_location": {
+      "latitude": 37.0406,
+      "longitude": -99.9875
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Ashland",
+    "population": 783,
+    "county": "Clark County",
+    "gps_location": {
+      "latitude": 37.1867,
+      "longitude": -99.7697
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Minneola",
+    "population": 738,
+    "county": "Clark County",
+    "gps_location": {
+      "latitude": 37.442,
+      "longitude": -100.0131
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Sitka",
+    "population": 71,
+    "county": "Clark County",
+    "gps_location": {
+      "latitude": 37.175,
+      "longitude": -99.6514
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Coldwater",
+    "population": 687,
+    "county": "Comanche County",
+    "gps_location": {
+      "latitude": 37.26858112897344,
+      "longitude": -99.32770063476562
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Protection",
+    "population": 498,
+    "county": "Comanche County",
+    "gps_location": {
+      "latitude": 37.2003,
+      "longitude": -99.4839
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Wilmore",
+    "population": 37,
+    "county": "Comanche County",
+    "gps_location": {
+      "latitude": 37.335,
+      "longitude": -99.2099
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Medicine Lodge",
+    "population": 1781,
+    "county": "Barber County",
+    "gps_location": {
+      "latitude": 37.28106593940966,
+      "longitude": -98.58092833862304
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Kiowa",
+    "population": 897,
+    "county": "Barber County",
+    "gps_location": {
+      "latitude": 37.0172,
+      "longitude": -98.4854
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Hardtner",
+    "population": 167,
+    "county": "Barber County",
+    "gps_location": {
+      "latitude": 37.0144,
+      "longitude": -98.6492
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Hazelton",
+    "population": 82,
+    "county": "Barber County",
+    "gps_location": {
+      "latitude": 37.0894,
+      "longitude": -98.4017
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Isabel",
+    "population": 68,
+    "county": "Barber County",
+    "gps_location": {
+      "latitude": 37.4672,
+      "longitude": -98.5514
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Sun City",
+    "population": 37,
+    "county": "Barber County",
+    "gps_location": {
+      "latitude": 37.379,
+      "longitude": -98.9175
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Anthony",
+    "population": 2108,
+    "county": "Harper County",
+    "gps_location": {
+      "latitude": 37.153427488482606,
+      "longitude": -98.03160031738281
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Attica",
+    "population": 516,
+    "county": "Harper County",
+    "gps_location": {
+      "latitude": 37.2421,
+      "longitude": -98.2275
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Bluff City",
+    "population": 45,
+    "county": "Harper County",
+    "gps_location": {
+      "latitude": 37.0761,
+      "longitude": -97.8753
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Danville",
+    "population": 29,
+    "county": "Harper County",
+    "gps_location": {
+      "latitude": 37.2858,
+      "longitude": -97.8919
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Harper",
+    "population": 1313,
+    "county": "Harper County",
+    "gps_location": {
+      "latitude": 37.28608172041222,
+      "longitude": -98.0279139892578
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Freeport",
+    "population": 86,
+    "county": "Harper County",
+    "gps_location": {
+      "latitude": 37.197551554810374,
+      "longitude": -97.85493974609375
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Waldron",
+    "population": 9,
+    "county": "Harper County",
+    "gps_location": {
+      "latitude": 37.0017,
+      "longitude": -98.1825
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Belle Plaine",
+    "county": "Sumner County",
+    "gps_location": {
+      "latitude": 37.393244225620116,
+      "longitude": -97.27948152465822
+    }
+  },
+  {
+    "name": "Caldwell",
+    "county": "Sumner County",
+    "gps_location": {
+      "latitude": 37.032353816421114,
+      "longitude": -97.60755341796875
+    }
+  },
+  {
+    "name": "South Haven",
+    "county": "Sumner County",
+    "gps_location": {
+      "latitude": 37.050480349787634,
+      "longitude": -97.40129379882812
+    }
+  },
+  {
+    "name": "Oxford",
+    "county": "Sumner County",
+    "gps_location": {
+      "latitude": 37.27415165748332,
+      "longitude": -97.16905699462889
+    }
+  },
+  {
+    "name": "Argonia",
+    "county": "Sumner County",
+    "gps_location": {
+      "latitude": 37.26618641067732,
+      "longitude": -97.76497678222657
+    }
+  },
+  {
+    "name": "Mayfield",
+    "county": "Sumner County",
+    "gps_location": {
+      "latitude": 37.25818155398663,
+      "longitude": -97.5464798095703
+    }
+  },
+  {
+    "name": "Milan",
+    "county": "Sumner County",
+    "gps_location": {
+      "latitude": 37.259690581575484,
+      "longitude": -97.67316740722657
+    }
+  },
+  {
+    "name": "Milton",
+    "county": "Sumner County",
+    "gps_location": {
+      "latitude": 37.38883421231483,
+      "longitude": -97.63973403320313
+    }
+  },
+  {
+    "name": "Wellington KS",
+    "county": "Sumner County",
+    "gps_location": {
+      "latitude": 37.27053057770082,
+      "longitude": -97.3983684020996
+    }
+  },
+  {
+    "name": "Ponca City",
+    "county": "Kay County",
+    "gps_location": {
+      "latitude": 36.7078,
+      "longitude": -97.0845
+    }
+  },
+  {
+    "name": "Newkirk",
+    "county": "Kay County",
+    "gps_location": {
+      "latitude": 36.881529755254526,
+      "longitude": -97.05331009521484
+    }
+  },
+  {
+    "name": "Blackwell",
+    "county": "Kay County",
+    "gps_location": {
+      "latitude": 36.80524782896037,
+      "longitude": -97.28310715332033
+    }
+  },
+  {
+    "name": "Kaw City",
+    "county": "Kay County",
+    "gps_location": {
+      "latitude": 36.76497043926324,
+      "longitude": -96.86730501708985
+    }
+  },
+  {
+    "name": "Tonkawa",
+    "county": "Kay County",
+    "gps_location": {
+      "latitude": 36.6782717030642,
+      "longitude": -97.30977329101565
+    }
+  },
+  {
+    "name": "Braman",
+    "county": "Kay County",
+    "gps_location": {
+      "latitude": 36.923026213273694,
+      "longitude": -97.33369904785155
+    }
+  },
+  {
+    "name": "White Eagle",
+    "county": "Kay County",
+    "gps_location": {
+      "latitude": 36.60426122928229,
+      "longitude": -97.07622893066406
+    }
+  },
+  {
+    "name": "Kildare",
+    "county": "Kay County",
+    "gps_location": {
+      "latitude": 36.80905809264255,
+      "longitude": -97.0484680419922
+    }
+  },
+  {
+    "name": "Nardin",
+    "county": "Kay County",
+    "gps_location": {
+      "latitude": 36.805588471039904,
+      "longitude": -97.4463546875
+    }
+  },
+  {
+    "name": "Peckham",
+    "county": "Kay County",
+    "gps_location": {
+      "latitude": 36.88674728815355,
+      "longitude": -97.17507384033203
+    }
+  },
+  {
+    "name": "Perry",
+    "county": "Noble County",
+    "gps_location": {
+      "latitude": 36.28899781418748,
+      "longitude": -97.28598696289062
+    }
+  },
+  {
+    "name": "Red Rock",
+    "county": "Noble County",
+    "gps_location": {
+      "latitude": 36.45846937099321,
+      "longitude": -97.17561892089844
+    }
+  },
+  {
+    "name": "Billings",
+    "county": "Noble County",
+    "gps_location": {
+      "latitude": 36.527213277963575,
+      "longitude": -97.44643481445311
+    }
+  },
+  {
+    "name": "Marland",
+    "county": "Noble County",
+    "gps_location": {
+      "latitude": 36.7448,
+      "longitude": -97.2573
+    }
+  },
+  {
+    "name": "Morrison",
+    "county": "Noble County",
+    "gps_location": {
+      "latitude": 36.295637995825295,
+      "longitude": -97.00765659179687
+    }
+  },
+  {
+    "name": "Sumner",
+    "county": "Noble County",
+    "gps_location": {
+      "latitude": 36.31854213658693,
+      "longitude": -97.12094609375
+    }
+  },
+  {
+    "name": "Lucien",
+    "county": "Noble County",
+    "gps_location": {
+      "latitude": 36.27512911873238,
+      "longitude": -97.45646550292969
+    }
+  },
+  {
+    "name": "Crescent",
+    "population": 1420,
+    "county": "Logan County",
+    "gps_location": {
+      "latitude": 35.9519,
+      "longitude": -97.595
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Coyle",
+    "population": 376,
+    "county": "Logan County",
+    "gps_location": {
+      "latitude": 35.9565855948291,
+      "longitude": -97.2353275238037
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Langston",
+    "population": 1747,
+    "county": "Logan County",
+    "gps_location": {
+      "latitude": 35.944411726808156,
+      "longitude": -97.25531091003418
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Cimarron City",
+    "population": 173,
+    "county": "Logan County",
+    "gps_location": {
+      "latitude": 35.8885,
+      "longitude": -97.6022
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Cedar Valley",
+    "population": 446,
+    "county": "Logan County",
+    "gps_location": {
+      "latitude": 35.86382786012896,
+      "longitude": -97.56281796874998
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Mulhall",
+    "population": 239,
+    "county": "Logan County",
+    "gps_location": {
+      "latitude": 36.0633,
+      "longitude": -97.4039
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Guthrie (Logan County)",
+    "population": 11805,
+    "county": "Logan County",
+    "gps_location": {
+      "latitude": 35.87907485151895,
+      "longitude": -97.42515699462892
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Edmond",
+    "population": 95618,
+    "county": "Oklahoma County",
+    "gps_location": {
+      "latitude": 35.6539524580586,
+      "longitude": -97.48035993652344
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Norman",
+    "population": 128026,
+    "county": "Cleveland County",
+    "gps_location": {
+      "latitude": 35.2208,
+      "longitude": -97.4437
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Noble",
+    "population": 7739,
+    "county": "Cleveland County",
+    "gps_location": {
+      "latitude": 35.1390383950704,
+      "longitude": -97.39399555664062
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Slaughterville",
+    "population": 4214,
+    "county": "Cleveland County",
+    "gps_location": {
+      "latitude": 35.08664044246012,
+      "longitude": -97.33556948242186
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Moore",
+    "population": 63470,
+    "county": "Cleveland County",
+    "gps_location": {
+      "latitude": 35.339,
+      "longitude": -97.4953
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Etowah",
+    "population": 167,
+    "county": "Cleveland County",
+    "gps_location": {
+      "latitude": 35.12620440613796,
+      "longitude": -97.17019887695315
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Newcastle",
+    "population": 13055,
+    "county": "McClain County",
+    "gps_location": {
+      "latitude": 35.246749062455905,
+      "longitude": -97.5994
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Goldsby",
+    "population": 2694,
+    "county": "McClain County",
+    "gps_location": {
+      "latitude": 35.152619603259524,
+      "longitude": -97.47384038085937
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Byars",
+    "population": 184,
+    "county": "McClain County",
+    "gps_location": {
+      "latitude": 34.8727,
+      "longitude": -97.0528
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Wayne",
+    "population": 625,
+    "county": "McClain County",
+    "gps_location": {
+      "latitude": 34.9168,
+      "longitude": -97.3164
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Dibble",
+    "population": 1093,
+    "county": "McClain County",
+    "gps_location": {
+      "latitude": 35.03201724723354,
+      "longitude": -97.62941257324219
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Washington",
+    "population": 706,
+    "county": "McClain County",
+    "gps_location": {
+      "latitude": 35.0593077907742,
+      "longitude": -97.48442416992187
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Rosedale",
+    "population": 62,
+    "county": "McClain County",
+    "gps_location": {
+      "latitude": 34.9185,
+      "longitude": -97.1846
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Cole",
+    "population": 624,
+    "county": "McClain County",
+    "gps_location": {
+      "latitude": 35.10252950130385,
+      "longitude": -97.57117980957031
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Blanchard",
+    "population": 9663,
+    "county": "McClain",
+    "gps_location": {
+      "latitude": 35.13803471559647,
+      "longitude": -97.65811172485351
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Pauls Valley",
+    "population": 6053,
+    "county": "Garvin County",
+    "gps_location": {
+      "latitude": 34.740157077555345,
+      "longitude": -97.22193481445312
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Elmore City",
+    "population": 750,
+    "county": "Garvin County",
+    "gps_location": {
+      "latitude": 34.622825285667886,
+      "longitude": -97.39600814819337
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Wynnewood",
+    "population": 1705,
+    "county": "Garvin County",
+    "gps_location": {
+      "latitude": 34.64254214848932,
+      "longitude": -97.17029968261718
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Paoli",
+    "population": 584,
+    "county": "Garvin County",
+    "gps_location": {
+      "latitude": 34.82661813164897,
+      "longitude": -97.25828338623046
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Lindsay",
+    "population": 2864,
+    "county": "Garvin County",
+    "gps_location": {
+      "latitude": 34.83718212829093,
+      "longitude": -97.60313354492186
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Hennepin",
+    "population": 143,
+    "county": "Garvin County",
+    "gps_location": {
+      "latitude": 34.50886836300212,
+      "longitude": -97.34965667724607
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Erin Springs",
+    "population": 89,
+    "county": "Garvin County",
+    "gps_location": {
+      "latitude": 34.810704709501174,
+      "longitude": -97.60669479370115
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Foster",
+    "population": 246,
+    "county": "Garvin County",
+    "gps_location": {
+      "latitude": 34.6164742422966,
+      "longitude": -97.48901512145996
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Katie",
+    "population": 332,
+    "county": "Garvin County",
+    "gps_location": {
+      "latitude": 34.579434659118675,
+      "longitude": -97.35227378845215
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Maysville",
+    "population": 1087,
+    "county": "Garvin County",
+    "gps_location": {
+      "latitude": 34.817590903623994,
+      "longitude": -97.40480651855471
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Davis",
+    "population": 2823,
+    "county": "Garvin County",
+    "gps_location": {
+      "latitude": 34.50466840027586,
+      "longitude": -97.11926971435547
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Ardmore",
+    "population": 24847,
+    "county": "Carter County",
+    "gps_location": {
+      "latitude": 34.172840518035535,
+      "longitude": -97.14373291015626
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Healdton",
+    "population": 2361,
+    "county": "Carter County",
+    "gps_location": {
+      "latitude": 34.232620336071996,
+      "longitude": -97.4882891845703
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Lone Grove",
+    "population": 5190,
+    "county": "Carter County",
+    "gps_location": {
+      "latitude": 34.173872039678955,
+      "longitude": -97.26307250976562
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Gene Autry",
+    "population": 154,
+    "county": "Carter County",
+    "gps_location": {
+      "latitude": 34.283234412680066,
+      "longitude": -97.0383433227539
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Wilson",
+    "population": 1606,
+    "county": "Carter County",
+    "gps_location": {
+      "latitude": 34.160539361958556,
+      "longitude": -97.42028808593749
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Springer",
+    "population": 703,
+    "county": "Carter County",
+    "gps_location": {
+      "latitude": 34.313994199106865,
+      "longitude": -97.14351470947265
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Tatums",
+    "population": 118,
+    "county": "Carter County",
+    "gps_location": {
+      "latitude": 34.48097891265736,
+      "longitude": -97.46257202148438
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Dickson",
+    "population": 1379,
+    "county": "Carter County",
+    "gps_location": {
+      "latitude": 34.18524459190259,
+      "longitude": -96.98158569335938
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Ratliff City",
+    "population": 64,
+    "county": "Carter County",
+    "gps_location": {
+      "latitude": 34.44888268573818,
+      "longitude": -97.509013671875
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Fox",
+    "population": 92,
+    "county": "Carter County",
+    "gps_location": {
+      "latitude": 34.362550701430784,
+      "longitude": -97.49205993652345
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Grady (Jefferson County)",
+    "population": null,
+    "county": "Jefferson County",
+    "gps_location": {
+      "latitude": 34.0203,
+      "longitude": -97.6656
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Marietta",
+    "population": 2719,
+    "county": "Love County",
+    "gps_location": {
+      "latitude": 33.937,
+      "longitude": -97.1167
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Leon",
+    "population": 74,
+    "county": "Love County",
+    "gps_location": {
+      "latitude": 33.8772,
+      "longitude": -97.4292
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Thackerville",
+    "population": 400,
+    "county": "Love County",
+    "gps_location": {
+      "latitude": 33.7935,
+      "longitude": -97.1422
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Burneyville",
+    "population": 815,
+    "county": "Love County",
+    "gps_location": {
+      "latitude": 33.9044,
+      "longitude": -97.2903
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Overbrook",
+    "population": null,
+    "county": "Love County",
+    "gps_location": {
+      "latitude": 34.0672,
+      "longitude": -97.1411
+    },
+    "incorporated": false
   }
 ];
   
