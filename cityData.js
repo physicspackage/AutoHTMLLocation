@@ -254,8 +254,8 @@ const cityTownData = [
     "population": 15733,
     "county": "Randall",
     "gps_location": {
-      "latitude": 35.0178,
-      "longitude": -101.9153
+      "latitude": 34.97935822501398,
+      "longitude": -101.9281960609436
     },
     "incorporated": true
   },
@@ -694,8 +694,8 @@ const cityTownData = [
     "population": 200393,
     "county": "Potter",
     "gps_location": {
-      "latitude": 35.2073,
-      "longitude": -101.8313
+      "latitude": 35.192992259537256,
+      "longitude": -101.83696482543947
     },
     "incorporated": true
   },
@@ -1204,8 +1204,8 @@ const cityTownData = [
     "population": 80,
     "county": "Hardeman County",
     "gps_location": {
-      "latitude": 34.33415052331501,
-      "longitude": -99.88628359985351
+      "latitude": 34.335001027927255,
+      "longitude": -99.88388034057617
     },
     "incorporated": true
   },
@@ -2304,8 +2304,8 @@ const cityTownData = [
     "population": 241,
     "county": "Tillman County",
     "gps_location": {
-      "latitude": 34.2422,
-      "longitude": -99.0781
+      "latitude": 34.241064738860395,
+      "longitude": -99.07655504760744
     },
     "incorporated": true
   },
@@ -2574,8 +2574,8 @@ const cityTownData = [
     "population": 32,
     "county": "Dewey County",
     "gps_location": {
-      "latitude": 35.813594358481105,
-      "longitude": -98.65757003173829
+      "latitude": 35.8161,
+      "longitude": -98.6586
     },
     "incorporated": false
   },
@@ -2592,11 +2592,11 @@ const cityTownData = [
   },
   {
     "name": "Morton",
-    "population": 1690,
+    "population": 1668,
     "county": "Cochran County",
     "gps_location": {
-      "latitude": 33.725,
-      "longitude": -102.7594
+      "latitude": 33.72505495018122,
+      "longitude": -102.75911856079101
     },
     "incorporated": true
   },
@@ -2605,8 +2605,8 @@ const cityTownData = [
     "population": 371,
     "county": "Cochran County",
     "gps_location": {
-      "latitude": 33.60011607338343,
-      "longitude": -102.61356473083497
+      "latitude": 33.60031634985275,
+      "longitude": -102.61349469909668
     },
     "incorporated": true
   },
@@ -2615,68 +2615,68 @@ const cityTownData = [
     "population": 132,
     "county": "Cochran County",
     "gps_location": {
-      "latitude": 33.61871059590858,
-      "longitude": -103.01963579101563
+      "latitude": 33.619251784734296,
+      "longitude": -103.01892017211912
     },
     "incorporated": true
   },
   {
     "name": "Levelland",
-    "population": 12652,
+    "population": 14017,
     "county": "Hockley County",
     "gps_location": {
-      "latitude": 33.5873164,
-      "longitude": -102.37796
-    },
-    "incorporated": true
-  },
-  {
-    "name": "Ropesville",
-    "population": 430,
-    "county": "Hockley County",
-    "gps_location": {
-      "latitude": 33.4134229,
-      "longitude": -102.1543406
+      "latitude": 33.587310337444606,
+      "longitude": -102.37791661376953
     },
     "incorporated": true
   },
   {
     "name": "Sundown",
-    "population": 1477,
+    "population": 1439,
     "county": "Hockley County",
     "gps_location": {
-      "latitude": 33.457018,
-      "longitude": -102.488283
-    },
-    "incorporated": true
-  },
-  {
-    "name": "Smyer",
-    "population": null,
-    "county": "Hockley County",
-    "gps_location": {
-      "latitude": 33.5842563,
-      "longitude": -102.1632291
+      "latitude": 33.45613414305316,
+      "longitude": -102.48928157653809
     },
     "incorporated": true
   },
   {
     "name": "Anton",
-    "population": 907,
+    "population": 1158,
     "county": "Hockley County",
     "gps_location": {
-      "latitude": 33.8111,
-      "longitude": -102.1639
+      "latitude": 33.81015872355306,
+      "longitude": -102.16290715332032
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Smyer",
+    "population": 453,
+    "county": "Hockley County",
+    "gps_location": {
+      "latitude": 33.584106755369724,
+      "longitude": -102.16314115295408
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Ropesville",
+    "population": 432,
+    "county": "Hockley County",
+    "gps_location": {
+      "latitude": 33.41254466636708,
+      "longitude": -102.15564722595214
     },
     "incorporated": true
   },
   {
     "name": "Whitharral",
-    "population": null,
+    "population": 130,
     "county": "Hockley County",
     "gps_location": {
-      "latitude": 33.7375948,
-      "longitude": -102.3271221
+      "latitude": 33.737725514488915,
+      "longitude": -102.32787823181152
     },
     "incorporated": true
   },
@@ -2685,118 +2685,168 @@ const cityTownData = [
     "population": null,
     "county": "Hockley County",
     "gps_location": {
-      "latitude": 33.593241,
-      "longitude": -102.298924
+      "latitude": 33.59202840289839,
+      "longitude": -102.29909376525879
     },
     "incorporated": false
   },
   {
     "name": "Roundup",
-    "population": 20,
+    "population": null,
     "county": "Hockley County",
     "gps_location": {
-      "latitude": 33.7622,
-      "longitude": -102.0972
+      "latitude": 33.76242579811413,
+      "longitude": -102.09799136352542
     },
     "incorporated": false
   },
   {
-    "name": "Shallowater",
-    "population": 2630,
-    "county": "Lubbock County",
-    "gps_location": {
-      "latitude": 33.68908313117221,
-      "longitude": -101.99701955566407
-    },
-    "incorporated": true
-  },
-  {
     "name": "Wolfforth",
-    "population": 4889,
+    "population": 6008,
     "county": "Lubbock County",
     "gps_location": {
-      "latitude": 33.506055993574954,
-      "longitude": -102.00937980957033
+      "latitude": 33.50587615024066,
+      "longitude": -102.00916075134278
     },
     "incorporated": true
   },
   {
     "name": "Slaton",
-    "population": 5889,
+    "population": 5811,
     "county": "Lubbock County",
     "gps_location": {
-      "latitude": 33.4348,
-      "longitude": -101.6413
+      "latitude": 33.43665717652534,
+      "longitude": -101.64397297363281
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Shallowater",
+    "population": 2940,
+    "county": "Lubbock County",
+    "gps_location": {
+      "latitude": 33.689614524745004,
+      "longitude": -101.99563046569826
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Ransom Canyon",
+    "population": 1170,
+    "county": "Lubbock County",
+    "gps_location": {
+      "latitude": 33.53332961132992,
+      "longitude": -101.68010216979981
     },
     "incorporated": true
   },
   {
     "name": "Buffalo Springs",
-    "population": 453,
+    "population": 459,
     "county": "Lubbock County",
     "gps_location": {
-      "latitude": 33.53228999878111,
-      "longitude": -101.70809329223634
+      "latitude": 33.53193298162974,
+      "longitude": -101.70853209075928
     },
     "incorporated": true
   },
   {
+    "name": "Acuff",
+    "population": 152,
+    "county": "Lubbock County",
+    "gps_location": {
+      "latitude": 33.59490173025206,
+      "longitude": -101.62020606155396
+    },
+    "incorporated": false
+  },
+  {
     "name": "Ralls",
-    "population": 1665,
+    "population": 1639,
     "county": "Crosby County",
     "gps_location": {
-      "latitude": 33.6794,
-      "longitude": -101.3836
+      "latitude": 33.67896431660963,
+      "longitude": -101.38421498413088
     },
     "incorporated": true
   },
   {
     "name": "Crosbyton",
-    "population": null,
+    "population": 1488,
     "county": "Crosby County",
     "gps_location": {
-      "latitude": 33.65971076550889,
-      "longitude": -101.23823498413086
+      "latitude": 33.65974242191626,
+      "longitude": -101.23806156616213
     },
     "incorporated": true
   },
   {
     "name": "Lorenzo",
-    "population": null,
+    "population": 964,
     "county": "Crosby County",
     "gps_location": {
-      "latitude": 33.6702962,
-      "longitude": -101.53525
+      "latitude": 33.67059834482977,
+      "longitude": -101.53544540252686
     },
     "incorporated": true
   },
   {
     "name": "Cone",
-    "population": 20,
+    "population": 50,
     "county": "Crosby County",
     "gps_location": {
-      "latitude": 33.7973048,
-      "longitude": -101.3876574
+      "latitude": 33.79696799542288,
+      "longitude": -101.38743915405274
     },
     "incorporated": false
   },
   {
-    "name": "Dickens",
-    "population": 219,
+    "name": "White River Lake",
+    "population": 83,
+    "county": "Crosby County",
+    "gps_location": {
+      "latitude": 33.466185616326314,
+      "longitude": -101.0942497558594
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Estacado",
+    "population": 32,
+    "county": "Crosby County",
+    "gps_location": {
+      "latitude": 33.75062073946682,
+      "longitude": -101.56264263610841
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Kalgary",
+    "population": null,
+    "county": "Crosby County",
+    "gps_location": {
+      "latitude": 33.40885862762142,
+      "longitude": -101.14876690979004
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Spur",
+    "population": 740,
     "county": "Dickens County",
     "gps_location": {
-      "latitude": 33.621341,
-      "longitude": -100.834987
+      "latitude": 33.47688647239324,
+      "longitude": -100.85540778808594
     },
     "incorporated": true
   },
   {
-    "name": "Spur",
-    "population": 863,
+    "name": "Dickens",
+    "population": 404,
     "county": "Dickens County",
     "gps_location": {
-      "latitude": 33.47765,
-      "longitude": -100.857018
+      "latitude": 33.62154660706596,
+      "longitude": -100.83688632812498
     },
     "incorporated": true
   },
@@ -2805,18 +2855,18 @@ const cityTownData = [
     "population": 75,
     "county": "Dickens County",
     "gps_location": {
-      "latitude": 33.7339724,
-      "longitude": -101.0062533
+      "latitude": 33.73359462227298,
+      "longitude": -101.00638080444335
     },
     "incorporated": false
   },
   {
     "name": "Afton",
-    "population": null,
+    "population": 15,
     "county": "Dickens County",
     "gps_location": {
-      "latitude": 33.75893529039222,
-      "longitude": -100.81688593068849
+      "latitude": 33.759079731922206,
+      "longitude": -100.8172007675171
     },
     "incorporated": false
   },
@@ -2825,8 +2875,8 @@ const cityTownData = [
     "population": 164,
     "county": "King County",
     "gps_location": {
-      "latitude": 33.62082420188815,
-      "longitude": -100.3226433227539
+      "latitude": 33.62052494409377,
+      "longitude": -100.3228153015137
     },
     "incorporated": false
   },
@@ -2835,18 +2885,18 @@ const cityTownData = [
     "population": 19,
     "county": "King County",
     "gps_location": {
-      "latitude": 33.80963825755829,
-      "longitude": -100.51619486999512
+      "latitude": 33.809174123823674,
+      "longitude": -100.51600315551757
     },
     "incorporated": false
   },
   {
     "name": "Crowell",
-    "population": 769,
+    "population": 749,
     "county": "Foard County",
     "gps_location": {
-      "latitude": 33.9838,
-      "longitude": -99.7242
+      "latitude": 33.983984681591394,
+      "longitude": -99.72488664550781
     },
     "incorporated": true
   },
@@ -2855,8 +2905,8 @@ const cityTownData = [
     "population": 50,
     "county": "Foard County",
     "gps_location": {
-      "latitude": 34.048259432675614,
-      "longitude": -99.65154116210938
+      "latitude": 34.04829912741469,
+      "longitude": -99.65215207214355
     },
     "incorporated": false
   },
@@ -2865,8 +2915,178 @@ const cityTownData = [
     "population": 50,
     "county": "Foard County",
     "gps_location": {
-      "latitude": 33.98449822924229,
-      "longitude": -99.53818041992187
+      "latitude": 33.98447300185973,
+      "longitude": -99.53860386962889
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Vernon",
+    "population": 10045,
+    "county": "Wilbarger County",
+    "gps_location": {
+      "latitude": 34.15272430172044,
+      "longitude": -99.28435617980958
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Harrold",
+    "population": 129,
+    "county": "Wilbarger County",
+    "gps_location": {
+      "latitude": 34.08124100596948,
+      "longitude": -99.0318375946045
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Odell",
+    "population": 100,
+    "county": "Wilbarger County",
+    "gps_location": {
+      "latitude": 34.344307419374466,
+      "longitude": -99.41841923828126
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Oklaunion",
+    "population": 77,
+    "county": "Wilbarger County",
+    "gps_location": {
+      "latitude": 34.12988832432768,
+      "longitude": -99.14233400878906
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Elliott",
+    "population": null,
+    "county": "Wilbarger County",
+    "gps_location": {
+      "latitude": 34.1887,
+      "longitude": -99.3337
+    },
+    "incorporated": false
+  },
+  {
+    "name": "White City",
+    "population": null,
+    "county": "Wilbarger County",
+    "gps_location": {
+      "latitude": 34.28006278161502,
+      "longitude": -99.34541154022217
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Lockett",
+    "population": 357,
+    "county": "Wilbarger County",
+    "gps_location": {
+      "latitude": 34.08220681814801,
+      "longitude": -99.37483051757813
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Munday",
+    "population": 1240,
+    "county": "Knox County",
+    "gps_location": {
+      "latitude": 33.448555853217805,
+      "longitude": -99.62221041259765
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Knox City",
+    "population": 1052,
+    "county": "Knox County",
+    "gps_location": {
+      "latitude": 33.41788106393757,
+      "longitude": -99.8188889099121
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Benjamin",
+    "population": 200,
+    "county": "Knox County",
+    "gps_location": {
+      "latitude": 33.58398601437912,
+      "longitude": -99.79252793121339
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Goree",
+    "population": 162,
+    "county": "Knox County",
+    "gps_location": {
+      "latitude": 33.467177623609004,
+      "longitude": -99.52449258117677
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Truscott",
+    "population": 50,
+    "county": "Knox County",
+    "gps_location": {
+      "latitude": 33.754236965396125,
+      "longitude": -99.81126759643553
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Vera",
+    "population": 30,
+    "county": "Knox County",
+    "gps_location": {
+      "latitude": 33.63340221896965,
+      "longitude": -99.56615849609375
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Seymour",
+    "population": 3726,
+    "county": "Baylor County",
+    "gps_location": {
+      "latitude": 33.594098160548874,
+      "longitude": -99.26022996826173
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Mabelle",
+    "population": null,
+    "county": "Baylor County",
+    "gps_location": {
+      "latitude": 33.669957245038916,
+      "longitude": -99.13936844940186
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Red Springs",
+    "population": null,
+    "county": "Baylor County",
+    "gps_location": {
+      "latitude": 33.61288448188525,
+      "longitude": -99.41200673217772
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Westover",
+    "population": null,
+    "county": "Baylor County",
+    "gps_location": {
+      "latitude": 33.49723867565284,
+      "longitude": -99.01780087585449
     },
     "incorporated": false
   },
@@ -2877,66 +3097,6 @@ const cityTownData = [
     "gps_location": {
       "latitude": 34.06427438756471,
       "longitude": -99.48108498687745
-    },
-    "incorporated": false
-  },
-  {
-    "name": "Vernon",
-    "population": 10045,
-    "county": "Wilbarger County",
-    "gps_location": {
-      "latitude": 34.1526,
-      "longitude": -99.2906
-    },
-    "incorporated": true
-  },
-  {
-    "name": "Lockett",
-    "population": 357,
-    "county": "Wilbarger County",
-    "gps_location": {
-      "latitude": 34.08292586708168,
-      "longitude": -99.37216311035156
-    },
-    "incorporated": true
-  },
-  {
-    "name": "Harrold",
-    "population": 129,
-    "county": "Wilbarger County",
-    "gps_location": {
-      "latitude": 34.08079359068989,
-      "longitude": -99.03195591430664
-    },
-    "incorporated": true
-  },
-  {
-    "name": "Odell",
-    "population": 100,
-    "county": "Wilbarger County",
-    "gps_location": {
-      "latitude": 34.34429567123448,
-      "longitude": -99.41856731262206
-    },
-    "incorporated": false
-  },
-  {
-    "name": "Oklaunion",
-    "population": 77,
-    "county": "Wilbarger County",
-    "gps_location": {
-      "latitude": 34.13135729773161,
-      "longitude": -99.14183554840088
-    },
-    "incorporated": true
-  },
-  {
-    "name": "White City",
-    "population": 40,
-    "county": "Wilbarger County",
-    "gps_location": {
-      "latitude": 34.280005084052085,
-      "longitude": -99.3453142074585
     },
     "incorporated": false
   },
@@ -2971,66 +3131,6 @@ const cityTownData = [
     "incorporated": false
   },
   {
-    "name": "Benjamin",
-    "population": 200,
-    "county": "Knox County",
-    "gps_location": {
-      "latitude": 33.5836894,
-      "longitude": -99.793032
-    },
-    "incorporated": true
-  },
-  {
-    "name": "Knox City",
-    "population": 1052,
-    "county": "Knox County",
-    "gps_location": {
-      "latitude": 33.41728397689776,
-      "longitude": -99.81937424316408
-    },
-    "incorporated": true
-  },
-  {
-    "name": "Munday",
-    "population": 1240,
-    "county": "Knox County",
-    "gps_location": {
-      "latitude": 33.449116758731314,
-      "longitude": -99.62289705810547
-    },
-    "incorporated": true
-  },
-  {
-    "name": "Goree",
-    "population": 162,
-    "county": "Knox County",
-    "gps_location": {
-      "latitude": 33.46697565933825,
-      "longitude": -99.52359883422852
-    },
-    "incorporated": true
-  },
-  {
-    "name": "Truscott",
-    "population": 50,
-    "county": "Knox County",
-    "gps_location": {
-      "latitude": 33.754245110634784,
-      "longitude": -99.8112500305176
-    },
-    "incorporated": false
-  },
-  {
-    "name": "Seymour",
-    "population": 2537,
-    "county": "Baylor County",
-    "gps_location": {
-      "latitude": 33.59383381506738,
-      "longitude": -99.26040651855469
-    },
-    "incorporated": true
-  },
-  {
     "name": "Lake Kemp",
     "population": null,
     "county": "Baylor County",
@@ -3041,42 +3141,12 @@ const cityTownData = [
     "incorporated": false
   },
   {
-    "name": "Mabelle",
-    "population": null,
-    "county": "Baylor County",
-    "gps_location": {
-      "latitude": 33.66989409410287,
-      "longitude": -99.13928981475831
-    },
-    "incorporated": false
-  },
-  {
     "name": "Bomarton",
     "population": null,
     "county": "Baylor County",
     "gps_location": {
       "latitude": 33.508045124686525,
       "longitude": -99.42566256103515
-    },
-    "incorporated": false
-  },
-  {
-    "name": "Westover",
-    "population": null,
-    "county": "Baylor County",
-    "gps_location": {
-      "latitude": 33.4972007717963,
-      "longitude": -99.01730092773437
-    },
-    "incorporated": false
-  },
-  {
-    "name": "Red Springs",
-    "population": null,
-    "county": "Baylor County",
-    "gps_location": {
-      "latitude": 33.61278677780569,
-      "longitude": -99.41178233947754
     },
     "incorporated": false
   },
@@ -5617,6 +5687,156 @@ const cityTownData = [
       "longitude": -97.1411
     },
     "incorporated": false
+  },
+  {
+    "name": "Hobbs",
+    "population": 37968,
+    "county": "Lea County",
+    "gps_location": {
+      "latitude": 32.70108874463704,
+      "longitude": -103.1342817565918
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Lovington",
+    "population": 11691,
+    "county": "Lea County",
+    "gps_location": {
+      "latitude": 32.943706621717155,
+      "longitude": -103.34869185180663
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Eunice",
+    "population": 3194,
+    "county": "Lea County",
+    "gps_location": {
+      "latitude": 32.437639215622134,
+      "longitude": -103.15921856079102
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Jal",
+    "population": 2222,
+    "county": "Lea County",
+    "gps_location": {
+      "latitude": 32.113240951665496,
+      "longitude": -103.19305830688475
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Tatum",
+    "population": 797,
+    "county": "Lea County",
+    "gps_location": {
+      "latitude": 33.2562723117921,
+      "longitude": -103.31724626464845
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Monument",
+    "population": null,
+    "county": "Lea County",
+    "gps_location": {
+      "latitude": 32.623797841953035,
+      "longitude": -103.2649669189453
+    },
+    "incorporated": false
+  },
+  {
+    "name": " oil Center",
+    "population": null,
+    "county": "Lea County",
+    "gps_location": {
+      "latitude": 32.49899478518016,
+      "longitude": -103.26153064575195
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Roswell",
+    "population": 48429,
+    "county": "Chaves County",
+    "gps_location": {
+      "latitude": 33.3942,
+      "longitude": -104.5231
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Dexter",
+    "population": 1076,
+    "county": "Chaves County",
+    "gps_location": {
+      "latitude": 33.19787981965075,
+      "longitude": -104.37304897460938
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Hagerman",
+    "population": 975,
+    "county": "Chaves County",
+    "gps_location": {
+      "latitude": 33.115118169777816,
+      "longitude": -104.32820389404297
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Lake Arthur",
+    "population": 380,
+    "county": "Chaves County",
+    "gps_location": {
+      "latitude": 32.997834939586,
+      "longitude": -104.36638063354495
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Midway",
+    "population": 638,
+    "county": "Chaves County",
+    "gps_location": {
+      "latitude": 33.294661343727604,
+      "longitude": -104.44966450805666
+    },
+    "incorporated": false
+  },
+  {
+    "name": "North Hobbs",
+    "population": 6099,
+    "county": "Lea County",
+    "gps_location": {
+      "latitude": 32.7856,
+      "longitude": -103.1553
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Caprock",
+    "population": null,
+    "county": "Lea County",
+    "gps_location": {
+      "latitude": 33.3918842032865,
+      "longitude": -103.71221043701172
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Denver City",
+    "population": 4390,
+    "county": "Yoakum County",
+    "gps_location": {
+      "latitude": 32.964726357934865,
+      "longitude": -102.82916156616211
+    },
+    "incorporated": true
   }
 ];
   

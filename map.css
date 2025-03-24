@@ -1,0 +1,68 @@
+/* map.css */
+
+/* Basic Reset and Body Styling */
+body {
+    font-family: sans-serif; /* Set a default sans-serif font */
+    margin: 20px; /* Add some margin around the body content */
+    line-height: 1.6; /* Improve readability with line spacing */
+    color: #333; /* Dark grey text for good contrast */
+}
+
+h1 {
+    text-align: center; /* Center the main heading */
+    margin-bottom: 20px; /* Add space below the main heading */
+}
+
+h3 {
+    margin-top: 0; /* Reset top margin for subheadings */
+    margin-bottom: 10px; /* Add space below subheadings */
+}
+
+/* Area Definition Controls Section */
+#area-definition-controls {
+    border: 1px solid #ccc; /* Light grey border to visually separate the section */
+    padding: 20px; /* Add padding inside the section */
+    margin-bottom: 20px; /* Add space below the area definition controls section */
+    border-radius: 5px; /* Slightly rounded corners */
+    background-color: #f9f9f9; /* Light grey background for visual separation */
+}
+
+#area-definition-controls p {
+    margin-bottom: 15px; /* Space below the paragraph in the controls section */
+}
+
+/* Bounding Box Button Styling */
+#bounding-box-button {
+    padding: 10px 20px; /* Padding inside the button */
+    font-size: 1em; /* Button text size */
+    background-color: #007bff; /* Blue background color */
+    color: white; /* White text color */
+    border: none; /* Remove default button border */
+    border-radius: 5px; /* Rounded corners for the button */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    transition: background-color 0.3s ease; /* Smooth background color transition on hover */
+}
+
+#bounding-box-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Map Container Styling */
+#map-container {
+    height: 500px; /* Fixed height for the map container - adjust as needed */
+    width: 100%; /* Make the map container take full width of its parent */
+    border: 1px solid #ddd; /* Very light grey border around the map */
+    border-radius: 5px; /* Rounded corners for the map container */
+    overflow: hidden; /* Ensure map content stays within the rounded corners */
+}
+
+/* Optional Info Panel - Example styling if you decide to use it */
+#info-panel {
+    margin-top: 20px; /* Space above the info panel */
+    padding: 15px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    background-color: #fefefe;
+}
+
+/* You can add more styles here as needed for other elements or to customize further */

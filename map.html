@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Geographic Location Finder</title>
+    <link rel="stylesheet" href="map.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Geographic Location Finder</h1>
+
+    <div id="data-input-controls">
+        <h3>Location Data (JSON):</h3>
+        <p>Paste JSON data below to load from text, or use the Load from File button.</p>
+        <textarea id="json-data-textarea" rows="10" cols="80"></textarea><br>
+        <button id="load-text-button">Load Data (from Text)</button>
+        <button id="save-data-button">Save Data to File</button>
+        <button id="load-file-button">Load Data from File</button>
+        <input type="file" id="load-file-input" style="display: none;"> </div>
+
+    <div id="map-container">
+    </div>
+
+    <div id="info-panel">
+    </div>
+
+    <script src="config.js"></script>
+    <script src="map.js"></script>
+</body>
+</html>
