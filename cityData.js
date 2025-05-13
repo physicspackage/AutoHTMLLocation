@@ -14,8 +14,8 @@ const cityTownData = [
     "population": 227,
     "county": "Armstrong",
     "gps_location": {
-      "latitude": 35.17323893389572,
-      "longitude": -101.56845979003906
+      "latitude": 35.174475480569384,
+      "longitude": -101.57137803344729
     },
     "incorporated": true
   },
@@ -406,16 +406,6 @@ const cityTownData = [
     "gps_location": {
       "latitude": 35.526789146532735,
       "longitude": -102.25434799804688
-    },
-    "incorporated": false
-  },
-  {
-    "name": "Tascosa",
-    "population": 8,
-    "county": "Oldham",
-    "gps_location": {
-      "latitude": 35.50388152559069,
-      "longitude": -102.25040585937501
     },
     "incorporated": false
   },
@@ -7047,6 +7037,56 @@ const cityTownData = [
       "longitude": -99.61952344970702
     },
     "incorporated": true
+  },
+  {
+    "name": "Panhandle",
+    "population": 2337,
+    "county": "Carson County",
+    "gps_location": {
+      "latitude": 35.343269156675284,
+      "longitude": -101.37778370361328
+    },
+    "incorporated": true
+  },
+  {
+    "name": "White Deer",
+    "population": 904,
+    "county": "Carson County",
+    "gps_location": {
+      "latitude": 35.433270008673716,
+      "longitude": -101.17187686767576
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Groom",
+    "population": 547,
+    "county": "Carson County",
+    "gps_location": {
+      "latitude": 35.205,
+      "longitude": -101.107
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Skellytown",
+    "population": 394,
+    "county": "Carson County",
+    "gps_location": {
+      "latitude": 35.57316081811055,
+      "longitude": -101.17281240234374
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Conway",
+    "population": null,
+    "county": "Carson County",
+    "gps_location": {
+      "latitude": 35.20774730706479,
+      "longitude": -101.38229104156495
+    },
+    "incorporated": false
   }
 ];
   

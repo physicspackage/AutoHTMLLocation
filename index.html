@@ -105,12 +105,38 @@ function displayClosestCities(position) {
     outputText += "<ul>";
       closestCities.forEach(city => {
         const oppositeDirection = getOppositeDirection(city.direction);
-        outputText += `<li>${city.distance.toFixed(2)} miles ${oppositeDirection} of <strong>${city.name}</strong> (${city.county} County)</li>`;
+        outputText += `<li>${city.distance.toFixed(1)} miles ${oppositeDirection} of <strong>${city.name}</strong> (${city.county} County)</li>`;
       });
     outputText += "</ul>";
     outputDiv.innerHTML = outputText;
+    // Add click-to-copy functionality to the list items
+    const listElement = outputDiv.querySelector('ul'); // Get the <ul> element
+    if (listElement) {
+        listElement.addEventListener('click', function(event) {
+            // Find the closest <li> ancestor of the clicked element
+            const listItem = event.target.closest('li');
 
+            if (listItem) { // Check if a list item was actually clicked
+                const textToCopy = listItem.textContent || listItem.innerText; // Get the text content
 
+                navigator.clipboard.writeText(textToCopy).then(() => {
+                    // Optional: Provide feedback to the user
+                    const originalText = listItem.innerHTML; // Store original content
+                    listItem.innerHTML = '<strong>Copied!</strong>';
+                    setTimeout(() => {
+                        listItem.innerHTML = originalText; // Restore original content
+                    }, 1000); // Display "Copied!" for 1 second
+                    console.log('Text copied to clipboard:', textToCopy);
+                }).catch(err => {
+                    console.error('Failed to copy text: ', err);
+                    // Optional: Inform the user about the error
+                    alert('Could not copy text to clipboard.');
+                });
+            }
+        });
+    }
+  } else if (closestCities.length === 0) {
+      outputDiv.textContent = "No cities/towns found within the specified criteria.";
   } else {
       outputDiv.textContent = "Could not find any cities/towns.";
   }
