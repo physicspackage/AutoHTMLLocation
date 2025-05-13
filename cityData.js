@@ -5837,6 +5837,1216 @@ const cityTownData = [
       "longitude": -102.82916156616211
     },
     "incorporated": true
+  },
+  {
+    "name": "Plains",
+    "population": 1355,
+    "county": "Yoakum County",
+    "gps_location": {
+      "latitude": 33.1896,
+      "longitude": -102.8272
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Brownfield",
+    "population": 8936,
+    "county": "Terry County",
+    "gps_location": {
+      "latitude": 33.180369474494135,
+      "longitude": -102.2748882751465
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Meadow",
+    "population": 601,
+    "county": "Terry County",
+    "gps_location": {
+      "latitude": 33.3383,
+      "longitude": -102.2078
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Wellman",
+    "population": 230,
+    "county": "Terry County",
+    "gps_location": {
+      "latitude": 33.0471,
+      "longitude": -102.428
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Tahoka",
+    "population": 2375,
+    "county": "Lynn County",
+    "gps_location": {
+      "latitude": 33.1664825542682,
+      "longitude": -101.79389266662598
+    },
+    "incorporated": true
+  },
+  {
+    "name": "O'Donnell",
+    "population": 704,
+    "county": "Lynn County",
+    "gps_location": {
+      "latitude": 32.9637,
+      "longitude": -101.8327
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Wilson",
+    "population": 434,
+    "county": "Lynn County",
+    "gps_location": {
+      "latitude": 33.317,
+      "longitude": -101.724
+    },
+    "incorporated": true
+  },
+  {
+    "name": "New Home",
+    "population": 326,
+    "county": "Lynn County",
+    "gps_location": {
+      "latitude": 33.326957400502764,
+      "longitude": -101.91178583068847
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Post",
+    "population": 4790,
+    "county": "Garza County",
+    "gps_location": {
+      "latitude": 33.19078451741915,
+      "longitude": -101.37815260314939
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Jayton",
+    "population": 511,
+    "county": "Kent County",
+    "gps_location": {
+      "latitude": 33.2502,
+      "longitude": -100.5749
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Clairemont",
+    "population": null,
+    "county": "Kent County",
+    "gps_location": {
+      "latitude": 33.1665,
+      "longitude": -100.7526
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Girard",
+    "population": 53,
+    "county": "Kent County",
+    "gps_location": {
+      "latitude": 33.362381336790676,
+      "longitude": -100.66313322753906
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Southland",
+    "population": 157,
+    "county": "Garza County",
+    "gps_location": {
+      "latitude": 33.362,
+      "longitude": -101.5502
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Close City",
+    "population": 65,
+    "county": "Garza County",
+    "gps_location": {
+      "latitude": 33.21083590559113,
+      "longitude": -101.48695749206544
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Justiceburg",
+    "population": 45,
+    "county": "Garza County",
+    "gps_location": {
+      "latitude": 33.04262012798558,
+      "longitude": -101.20265020370483
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Graham",
+    "population": 60,
+    "county": "Garza County",
+    "gps_location": {
+      "latitude": 33.1507437209853,
+      "longitude": -101.46995101852416
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Aspermont",
+    "population": 789,
+    "county": "Stonewall County",
+    "gps_location": {
+      "latitude": 33.13352844716979,
+      "longitude": -100.22757451324463
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Old Glory",
+    "population": 100,
+    "county": "Stonewall County",
+    "gps_location": {
+      "latitude": 33.1298,
+      "longitude": -100.0559
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Peacock",
+    "population": 100,
+    "county": "Stonewall County",
+    "gps_location": {
+      "latitude": 33.1822,
+      "longitude": -100.3993
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Swenson",
+    "population": 80,
+    "county": "Stonewall County",
+    "gps_location": {
+      "latitude": 33.207,
+      "longitude": -100.3121
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Haskell",
+    "population": 3089,
+    "county": "Haskell County",
+    "gps_location": {
+      "latitude": 33.1598,
+      "longitude": -99.7321
+    },
+    "incorporated": true
+  },
+  {
+    "name": "O'Brien",
+    "population": 91,
+    "county": "Haskell County",
+    "gps_location": {
+      "latitude": 33.3797,
+      "longitude": -99.8417
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Stamford",
+    "population": 2907,
+    "county": "Haskell County",
+    "gps_location": {
+      "latitude": 32.945426921255596,
+      "longitude": -99.80314064636231
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Weinert",
+    "population": 172,
+    "county": "Haskell County",
+    "gps_location": {
+      "latitude": 33.3233,
+      "longitude": -99.6736
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Rochester",
+    "population": 248,
+    "county": "Haskell County",
+    "gps_location": {
+      "latitude": 33.3139,
+      "longitude": -99.8564
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Rule",
+    "population": 568,
+    "county": "Haskell County",
+    "gps_location": {
+      "latitude": 33.18464963307196,
+      "longitude": -99.89392453918457
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Sagerton",
+    "population": 171,
+    "county": "Haskell County",
+    "gps_location": {
+      "latitude": 33.077,
+      "longitude": -99.9557
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Paint Creek",
+    "population": 324,
+    "county": "Haskell County",
+    "gps_location": {
+      "latitude": 33.0629,
+      "longitude": -99.6729
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Throckmorton",
+    "population": 727,
+    "county": "Throckmorton County",
+    "gps_location": {
+      "latitude": 33.17881104483799,
+      "longitude": -99.17729674072265
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Woodson",
+    "population": 229,
+    "county": "Throckmorton County",
+    "gps_location": {
+      "latitude": 33.0148,
+      "longitude": -99.0535
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Elbert",
+    "population": 29,
+    "county": "Throckmorton County",
+    "gps_location": {
+      "latitude": 33.266245027062226,
+      "longitude": -98.99402426452637
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Graham",
+    "population": 8786,
+    "county": "Young County",
+    "gps_location": {
+      "latitude": 33.10693257858814,
+      "longitude": -98.58938583068847
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Olney",
+    "population": 3007,
+    "county": "Young County",
+    "gps_location": {
+      "latitude": 33.37078050578068,
+      "longitude": -98.75714169311523
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Newcastle",
+    "population": 525,
+    "county": "Young County",
+    "gps_location": {
+      "latitude": 33.19359609808331,
+      "longitude": -98.73866423339842
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Loving",
+    "population": 143,
+    "county": "Young County",
+    "gps_location": {
+      "latitude": 33.26265646287939,
+      "longitude": -98.51079348144532
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Jean",
+    "population": 110,
+    "county": "Young County",
+    "gps_location": {
+      "latitude": 33.2961,
+      "longitude": -98.6161
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Eliasville",
+    "population": 100,
+    "county": "Young County",
+    "gps_location": {
+      "latitude": 32.9597,
+      "longitude": -98.76542915344238
+    },
+    "incorporated": false
+  },
+  {
+    "name": "South Bend",
+    "population": 100,
+    "county": "Young County",
+    "gps_location": {
+      "latitude": 33.0045,
+      "longitude": -98.6683
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Jacksboro",
+    "population": 4184,
+    "county": "Jack County",
+    "gps_location": {
+      "latitude": 33.2183,
+      "longitude": -98.1595
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Bryson",
+    "population": 405,
+    "county": "Jack County",
+    "gps_location": {
+      "latitude": 33.16102596672032,
+      "longitude": -98.38585260314942
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Perrin",
+    "population": 398,
+    "county": "Jack County",
+    "gps_location": {
+      "latitude": 33.034028600756656,
+      "longitude": -98.06937166137695
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Jermyn",
+    "population": 75,
+    "county": "Jack County",
+    "gps_location": {
+      "latitude": 33.2643,
+      "longitude": -98.3884
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Newport",
+    "population": 75,
+    "county": "Jack County",
+    "gps_location": {
+      "latitude": 33.4679,
+      "longitude": -98.0164
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Wizard Wells",
+    "population": 69,
+    "county": "Jack County",
+    "gps_location": {
+      "latitude": 33.2004,
+      "longitude": -97.9703
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Antelope",
+    "population": 65,
+    "county": "Jack County",
+    "gps_location": {
+      "latitude": 33.4418,
+      "longitude": -98.3698
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Cundiff",
+    "population": 45,
+    "county": "Jack County",
+    "gps_location": {
+      "latitude": 33.3168,
+      "longitude": -97.9984
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Seminole",
+    "population": 6988,
+    "county": "Gaines County",
+    "gps_location": {
+      "latitude": 32.71874442466921,
+      "longitude": -102.64502182006838
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Seagraves",
+    "population": 2371,
+    "county": "Gaines County",
+    "gps_location": {
+      "latitude": 32.94416582792649,
+      "longitude": -102.56464006347655
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Loop",
+    "population": 291,
+    "county": "Gaines County",
+    "gps_location": {
+      "latitude": 32.91510807934882,
+      "longitude": -102.41635749206543
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Lamesa",
+    "population": 8674,
+    "county": "Dawson County",
+    "gps_location": {
+      "latitude": 32.7365659615914,
+      "longitude": -101.95133354492188
+    },
+    "incorporated": true
+  },
+  {
+    "name": "O'Donnell",
+    "population": 704,
+    "county": "Dawson County",
+    "gps_location": {
+      "latitude": 32.9637,
+      "longitude": -101.8327
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Ackerly",
+    "population": 254,
+    "county": "Dawson County",
+    "gps_location": {
+      "latitude": 32.5264,
+      "longitude": -101.7156
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Welch",
+    "population": 195,
+    "county": "Dawson County",
+    "gps_location": {
+      "latitude": 32.9264,
+      "longitude": -102.1267
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Klondike",
+    "population": 50,
+    "county": "Dawson County",
+    "gps_location": {
+      "latitude": 32.5589,
+      "longitude": -101.9572
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Patricia",
+    "population": 50,
+    "county": "Dawson County",
+    "gps_location": {
+      "latitude": 32.5545,
+      "longitude": -102.0204
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Andrews",
+    "population": 13487,
+    "county": "Andrews County",
+    "gps_location": {
+      "latitude": 32.31878880064008,
+      "longitude": -102.54642344970704
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Frankel City",
+    "population": 2,
+    "county": "Andrews County",
+    "gps_location": {
+      "latitude": 32.38140067961454,
+      "longitude": -102.78012589416504
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Gail",
+    "population": 249,
+    "county": "Borden County",
+    "gps_location": {
+      "latitude": 32.7704,
+      "longitude": -101.4454
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Snyder",
+    "population": 11438,
+    "county": "Scurry County",
+    "gps_location": {
+      "latitude": 32.7156,
+      "longitude": -100.9144
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Hermleigh",
+    "population": 403,
+    "county": "Scurry County",
+    "gps_location": {
+      "latitude": 32.6346,
+      "longitude": -100.7593
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Fluvanna",
+    "population": 78,
+    "county": "Scurry County",
+    "gps_location": {
+      "latitude": 32.8856,
+      "longitude": -101.1486
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Ira",
+    "population": 250,
+    "county": "Scurry County",
+    "gps_location": {
+      "latitude": 32.5819,
+      "longitude": -101.0019
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Dunn",
+    "population": 75,
+    "county": "Scurry County",
+    "gps_location": {
+      "latitude": 32.5671,
+      "longitude": -100.8854
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Roby",
+    "population": 591,
+    "county": "Fisher County",
+    "gps_location": {
+      "latitude": 32.745045540751974,
+      "longitude": -100.37812833862304
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Rotan",
+    "population": 1413,
+    "county": "Fisher County",
+    "gps_location": {
+      "latitude": 32.851429854661674,
+      "longitude": -100.46677170410156
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Hamlin",
+    "population": 2125,
+    "county": "Fisher County",
+    "gps_location": {
+      "latitude": 32.8839,
+      "longitude": -100.1253
+    },
+    "incorporated": true
+  },
+  {
+    "name": "McCaulley",
+    "population": 79,
+    "county": "Fisher County",
+    "gps_location": {
+      "latitude": 32.78199163260409,
+      "longitude": -100.2043129470825
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Sylvester",
+    "population": 52,
+    "county": "Fisher County",
+    "gps_location": {
+      "latitude": 32.72096126868686,
+      "longitude": -100.25426482543945
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Dunn",
+    "population": 75,
+    "county": "Fisher County",
+    "gps_location": {
+      "latitude": 32.5671,
+      "longitude": -100.8854
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Ira",
+    "population": 250,
+    "county": "Fisher County",
+    "gps_location": {
+      "latitude": 32.5819,
+      "longitude": -101.0019
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Bowie",
+    "population": 5448,
+    "county": "Montague County",
+    "gps_location": {
+      "latitude": 33.5589,
+      "longitude": -97.8486
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Nocona",
+    "population": 3002,
+    "county": "Montague County",
+    "gps_location": {
+      "latitude": 33.786738798332294,
+      "longitude": -97.72669511108398
+    },
+    "incorporated": true
+  },
+  {
+    "name": "St. Jo",
+    "population": 881,
+    "county": "Montague County",
+    "gps_location": {
+      "latitude": 33.69467864832107,
+      "longitude": -97.52262793121338
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Montague",
+    "population": 261,
+    "county": "Montague County",
+    "gps_location": {
+      "latitude": 33.6653,
+      "longitude": -97.7208
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Nocona Hills",
+    "population": 637,
+    "county": "Montague County",
+    "gps_location": {
+      "latitude": 33.851430790480975,
+      "longitude": -97.6498656402588
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Ringgold",
+    "population": 146,
+    "county": "Montague County",
+    "gps_location": {
+      "latitude": 33.82028303492914,
+      "longitude": -97.9437445449829
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Sunset",
+    "population": 543,
+    "county": "Montague County",
+    "gps_location": {
+      "latitude": 33.452049707242935,
+      "longitude": -97.76662476196287
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Kermit",
+    "population": 6267,
+    "county": "Winkler County",
+    "gps_location": {
+      "latitude": 31.85757223735283,
+      "longitude": -103.09332996826171
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Wink",
+    "population": 915,
+    "county": "Winkler County",
+    "gps_location": {
+      "latitude": 31.751434672936423,
+      "longitude": -103.16010814819336
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Odessa",
+    "population": 114428,
+    "county": "Ector County",
+    "gps_location": {
+      "latitude": 31.845803093108294,
+      "longitude": -102.36748827514647
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Gardendale",
+    "population": 2020,
+    "county": "Ector County",
+    "gps_location": {
+      "latitude": 32.02089903093979,
+      "longitude": -102.3760684020996
+    },
+    "incorporated": false
+  },
+  {
+    "name": "West Odessa",
+    "population": 36033,
+    "county": "Ector County",
+    "gps_location": {
+      "latitude": 31.841604122135042,
+      "longitude": -102.49654395751953
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Goldsmith",
+    "population": 236,
+    "county": "Ector County",
+    "gps_location": {
+      "latitude": 31.980943938047208,
+      "longitude": -102.6153566772461
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Notrees",
+    "population": 19,
+    "county": "Ector County",
+    "gps_location": {
+      "latitude": 31.9173,
+      "longitude": -102.7557
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Penwell",
+    "population": 44,
+    "county": "Ector County",
+    "gps_location": {
+      "latitude": 31.734937731768323,
+      "longitude": -102.59190461425781
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Midland",
+    "population": 132524,
+    "county": "Midland County",
+    "gps_location": {
+      "latitude": 32.0005,
+      "longitude": -102.0774
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Greenwood",
+    "population": 2000,
+    "county": "Midland County",
+    "gps_location": {
+      "latitude": 32.0276,
+      "longitude": -101.8957
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Stanton",
+    "population": 2657,
+    "county": "Martin County",
+    "gps_location": {
+      "latitude": 32.12924629624682,
+      "longitude": -101.78952507934571
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Ackerly",
+    "population": 264,
+    "county": "Martin County",
+    "gps_location": {
+      "latitude": 32.5256,
+      "longitude": -101.7142
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Lenorah",
+    "population": 83,
+    "county": "Martin County",
+    "gps_location": {
+      "latitude": 32.3046,
+      "longitude": -101.8762
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Tarzan",
+    "population": 30,
+    "county": "Martin County",
+    "gps_location": {
+      "latitude": 32.3053,
+      "longitude": -101.9751
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Big Spring",
+    "population": 26144,
+    "county": "Howard County",
+    "gps_location": {
+      "latitude": 32.252591653511004,
+      "longitude": -101.47272507934572
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Coahoma",
+    "population": 944,
+    "county": "Howard County",
+    "gps_location": {
+      "latitude": 32.2964,
+      "longitude": -101.3058
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Forsan",
+    "population": 225,
+    "county": "Howard County",
+    "gps_location": {
+      "latitude": 32.1097,
+      "longitude": -101.3658
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Knott",
+    "population": 200,
+    "county": "Howard County",
+    "gps_location": {
+      "latitude": 32.4025,
+      "longitude": -101.6408
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Elbow",
+    "population": 10,
+    "county": "Howard County",
+    "gps_location": {
+      "latitude": 32.1603,
+      "longitude": -101.5117
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Luther",
+    "population": 3,
+    "county": "Howard County",
+    "gps_location": {
+      "latitude": 32.440231745411275,
+      "longitude": -101.47382362976076
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Vealmoor",
+    "population": 5,
+    "county": "Howard County",
+    "gps_location": {
+      "latitude": 32.5213521806402,
+      "longitude": -101.56957413940431
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Colorado City",
+    "population": 3991,
+    "county": "Mitchell County",
+    "gps_location": {
+      "latitude": 32.38834512265551,
+      "longitude": -100.86451742858885
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Westbrook",
+    "population": 201,
+    "county": "Mitchell County",
+    "gps_location": {
+      "latitude": 32.35532364283634,
+      "longitude": -101.01385830688477
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Loraine",
+    "population": 504,
+    "county": "Mitchell County",
+    "gps_location": {
+      "latitude": 32.41104629970793,
+      "longitude": -100.71209918518066
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Lake Colorado City",
+    "population": 636,
+    "county": "Mitchell County",
+    "gps_location": {
+      "latitude": 32.34970756854093,
+      "longitude": -100.93634128570558
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Buford",
+    "population": 30,
+    "county": "Mitchell County",
+    "gps_location": {
+      "latitude": 32.4615,
+      "longitude": -100.8568
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Sweetwater",
+    "population": 10622,
+    "county": "Nolan County",
+    "gps_location": {
+      "latitude": 32.46842225155336,
+      "longitude": -100.40143354492187
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Roscoe",
+    "population": 1271,
+    "county": "Nolan County",
+    "gps_location": {
+      "latitude": 32.44492327510881,
+      "longitude": -100.54430795898438
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Blackwell",
+    "population": 257,
+    "county": "Nolan County",
+    "gps_location": {
+      "latitude": 32.0867,
+      "longitude": -100.3172
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Maryneal",
+    "population": 50,
+    "county": "Nolan County",
+    "gps_location": {
+      "latitude": 32.2354,
+      "longitude": -100.4504
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Nolan",
+    "population": 60,
+    "county": "Nolan County",
+    "gps_location": {
+      "latitude": 32.273238039990396,
+      "longitude": -100.24408453674316
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Abilene",
+    "population": 125182,
+    "county": "Taylor County",
+    "gps_location": {
+      "latitude": 32.45260740934805,
+      "longitude": -99.72802734375
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Tuscola",
+    "population": 850,
+    "county": "Taylor County",
+    "gps_location": {
+      "latitude": 32.20878563377001,
+      "longitude": -99.79727003173828
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Tye",
+    "population": 1176,
+    "county": "Taylor County",
+    "gps_location": {
+      "latitude": 32.45737718153189,
+      "longitude": -99.87168501586915
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Merkel",
+    "population": 2472,
+    "county": "Taylor County",
+    "gps_location": {
+      "latitude": 32.4669,
+      "longitude": -100.014
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Buffalo Gap",
+    "population": 543,
+    "county": "Taylor County",
+    "gps_location": {
+      "latitude": 32.27880099667947,
+      "longitude": -99.83008012695312
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Lawn",
+    "population": 311,
+    "county": "Taylor County",
+    "gps_location": {
+      "latitude": 32.1347917451116,
+      "longitude": -99.74947329101562
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Trent",
+    "population": 295,
+    "county": "Taylor County",
+    "gps_location": {
+      "latitude": 32.4883,
+      "longitude": -100.125
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Hamby",
+    "population": 100,
+    "county": "Taylor County",
+    "gps_location": {
+      "latitude": 32.5187,
+      "longitude": -99.6312
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Ovalo",
+    "population": 225,
+    "county": "Taylor County",
+    "gps_location": {
+      "latitude": 32.171707506105705,
+      "longitude": -99.80899022216796
+    },
+    "incorporated": false
+  },
+  {
+    "name": "View",
+    "population": 350,
+    "county": "Taylor County",
+    "gps_location": {
+      "latitude": 32.3429,
+      "longitude": -99.8848
+    },
+    "incorporated": false
+  },
+  {
+    "name": "Albany",
+    "population": 1854,
+    "county": "Shackelford County",
+    "gps_location": {
+      "latitude": 32.72344523864039,
+      "longitude": -99.29731661376954
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Moran",
+    "population": 227,
+    "county": "Shackelford County",
+    "gps_location": {
+      "latitude": 32.5472,
+      "longitude": -99.1664
+    },
+    "incorporated": true
+  },
+  {
+    "name": "Lueders",
+    "population": 258,
+    "county": "Shackelford County",
+    "gps_location": {
+      "latitude": 32.801321456306525,
+      "longitude": -99.61952344970702
+    },
+    "incorporated": true
   }
 ];
   
