@@ -1,4 +1,5 @@
 // Make sure GOOGLE_MAPS_API_KEY is defined in config.js
+import { cityTownData } from './cityData.js';
 let googleMapsApiKey = GOOGLE_MAPS_API_KEY;
 
 // ** 1. Map Variables and Initialization **
@@ -13,15 +14,20 @@ function clearMarkers() {
   markers = [];
 }
 
+// Your function to initialize the map
 function initMap() {
-  const amarilloLatLng = { lat: 35.2073, lng: -101.8313 }; // Coordinates for Amarillo, TX
-
+  console.log("initMap function is now being called!"); // For debugging
+  if (!document.getElementById('map-container')) {
+      console.error("Error: map-container element not found in the DOM.");
+      return;
+  }
   map = new google.maps.Map(document.getElementById('map-container'), {
-    center: amarilloLatLng,
-    zoom: 10, // Adjust zoom level as needed
+      center: { lat: -34.397, lng: 150.644 }, // Default center
+      zoom: 8,
   });
 
-  loadInitialData();
+  // Load initial data and then fit map to markers
+  loadInitialData().then(fitMapToMarkers);
 }
 
 function loadDataFromJsonTextarea() {
@@ -85,6 +91,17 @@ function saveDataToFile() {
   downloadLink.click();
   document.body.removeChild(downloadLink);
   URL.revokeObjectURL(url);
+
+  // New code to prepare content for cityData.js
+  if (!currentJsonData) {
+    alert('No data to format for cityData.js.'); // Should not happen if download worked
+    return;
+  }
+  const cityDataFileContent = `const cityTownData = ${JSON.stringify(currentJsonData, null, 2)};\n\nexport { cityTownData };`;
+  
+  document.getElementById('json-data-textarea').value = cityDataFileContent;
+  
+  alert('locations.json has been downloaded.\n\nTo update the source file (cityData.js):\n1. Copy the entire text from the text area below.\n2. Open cityData.js in your code editor.\n3. Replace its entire content with the copied text and save the file.');
 }
 
 function loadDataFromFile() {
@@ -186,7 +203,50 @@ function reIndexMarkers() {
 }
 
 function loadInitialData() {
-  // No default data
+  return new Promise((resolve, reject) => {
+    if (cityTownData && Array.isArray(cityTownData)) {
+      clearMarkers();
+      currentJsonData = []; // Reset current data
+
+      // Deep clone the imported data to work with a mutable copy
+      currentJsonData = JSON.parse(JSON.stringify(cityTownData));
+
+      if (currentJsonData.length > 0) {
+        currentJsonData.forEach((town, index) => {
+          if (
+            town.gps_location &&
+            typeof town.gps_location.latitude === 'number' &&
+            typeof town.gps_location.longitude === 'number'
+          ) {
+            placeMarkerOnMap(town, index); // Pass the town and its index in currentJsonData
+          } else {
+            console.warn(
+              `Skipping town "${town.name}" during initial load due to invalid or missing gps_location:`,
+              town
+            );
+          }
+        });
+        console.log(`${currentJsonData.length} initial towns processed for markers.`);
+      } else {
+        console.log('No initial towns found in cityData.js to display.');
+      }
+      resolve();
+    } else {
+      console.error('cityTownData is not available or not an array. Check cityData.js.');
+      alert('Could not load initial city data. Please check the console for errors.');
+      reject('Failed to load initial city data.');
+    }
+  });
+}
+
+function fitMapToMarkers() {
+  if (markers.length === 0) return;
+  const bounds = new google.maps.LatLngBounds();
+  markers.forEach(marker => bounds.extend(marker.getPosition()));
+  map.fitBounds(bounds);
+  if (markers.length === 1) {
+    map.setZoom(10); // Adjust zoom for a single marker if fitBounds is too close
+  }
 }
 
 function loadMapScript() {
@@ -200,6 +260,9 @@ function loadMapScript() {
   };
   document.head.appendChild(script);
 }
+
+// Expose initMap to the global scope so Google Maps API can call it
+window.initMap = initMap;
 
 // Button bindings
 document
