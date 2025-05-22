@@ -22,7 +22,7 @@ function initMap() {
       return;
   }
   map = new google.maps.Map(document.getElementById('map-container'), {
-      center: { lat: -34.397, lng: 150.644 }, // Default center
+      center: { lat: 35.2220, lng: -101.8313 }, // Default center Amarillo, TX
       zoom: 8,
   });
 
